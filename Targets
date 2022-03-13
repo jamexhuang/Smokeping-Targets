@@ -1,0 +1,3368 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = JamexHuang Network Latency Grapher
+remark = Welcome to the SmokePing website of WORKS Company. \
+         Here you will learn all about the latency of our network.
+
++ PointsInterestCDN
+menu = CDNs (Worldwide)
+title = TITLE-HEADER - CDNs (Worldwide)
+
+++ akamai
+menu = [CDN] Akamai
+title = [CDN] Akamai [www.akamai.com]
+host = www.akamai.com
+
+++ amazon-cloudfront
+menu = [CDN] Amazon CloudFront
+title = [CDN] Amazon CloudFront [www.amazon.com]
+host = www.amazon.com
+
+++ automattic
+menu = [CDN] Automattic
+title = [CDN] Automattic, Inc. (WordPress.com et al.) [automattic.com]
+host = automattic.com
+
+++ baidu
+menu = [CDN] Baidu
+title = [CDN] Baidu [www.baidu.com]
+host = www.baidu.com
+
+++ bunnycdn
+menu = [CDN] BunnyCDN
+title = [CDN] BunnyCDN [bunnycdn.com]
+host = bunnycdn.com
+
+++ buyvm-anycast
+menu = [CDN] BuyVM Anycast
+title = [CDN] BuyVM Anycast [198.251.86.22]
+host = 198.251.86.22
+
+++ cachefly
+menu = [CDN] CacheFly
+title = [CDN] CacheFly [cachefly.cachefly.net]
+host = cachefly.cachefly.net
+
+++ cdn77
+menu = [CDN] CDN77.com
+title = [CDN] CDN77.com [www.cdn77.com]
+host = www.cdn77.com
+
+++ cloudflare-dns
+menu = [CDN] Cloudflare
+title = [CDN] Cloudflare [cloudflare.com]
+host = cloudflare.com
+
+++ dropbox
+menu = [CDN] Dropbox
+title = [CDN] Dropbox [dropbox.com]
+host = dropbox.com
+
+++ facebook
+menu = [CDN] Facebook
+title = [CDN] Facebook [facebook.com]
+host = facebook.com
+
+++ fastly
+menu = [CDN] Fastly
+title = [CDN] Fastly [cdn-fastly.deb.debian.org]
+host = cdn-fastly.deb.debian.org
+
+++ github
+menu = [CDN] GitHub
+title = [CDN] GitHub [github.com]
+host = github.com
+
+++ gcorelabs-cdn
+menu = [CDN] G-Core Labs CDN
+title = [CDN] G-Core Labs CDN [d.gcdn.co]
+host = d.gcdn.co
+
+++ google
+menu = [CDN] Google
+title = [CDN] Google [google.com]
+host = google.com
+
+++ incapsula
+menu = [CDN] Incapsula
+title = [CDN] Imperva Incapsula [www.incapsula.com]
+host = www.incapsula.com
+
+++ jsdelivr
+menu = [CDN] jsDelivr
+title = [CDN] jsDelivr [cdn.jsdelivr.net]
+host = cdn.jsdelivr.net
+
+++ keycdn
+menu = [CDN] KeyCDN
+title = [CDN] KeyCDN [www.keycdn.com]
+host = www.keycdn.com
+
+++ level3-cdn
+menu = [CDN] Level 3 DNS
+title = [CDN] Level 3 DNS Resolver [4.2.2.1]
+host = 4.2.2.1
+
+++ microsoft
+menu = [CDN] Microsoft O365 ACDC
+title = [CDN] Microsoft Office 365 ACDC [www.outlook.com]
+host = www.outlook.com
+
+++ opendns
+menu = [CDN] OpenDNS
+title = [CDN] OpenDNS [208.67.222.222]
+host = 208.67.222.222
+
+++ psychz-cdn
+menu = [CDN] Psychz
+title = [CDN] Psychz [psychz.net]
+host = psychz.net
+
+++ quad9
+menu = [CDN] Quad9 DNS
+title = [CDN] Quad9 DNS [9.9.9.9]
+host = 9.9.9.9
+
+++ quantil
+menu = [CDN] QUANTIL / Wangsu
+title = [CDN] QUANTIL / Wangsu / ChinaNetCenter (Overseas) [en.wangsu.com]
+host = en.wangsu.com
+
+++ stackpath
+menu = [CDN] StackPath
+title = [CDN] StackPath [www.stackpath.com]
+host = www.stackpath.com
+
+++ tmall
+menu = [CDN] Tmall.com (Alibaba)
+title = [CDN] Tmall.com (Alibaba Group) @ Alibaba Cloud [www.tmall.com]
+host = www.tmall.com
+
+++ twitter
+menu = [CDN] Twitter
+title = [CDN] Twitter [twitter.com]
+host = twitter.com
+
+++ verizon-edgecast
+menu = [CDN] Verizon Edgecast
+title = [CDN] Verizon Edgecast [www.verizondigitalmedia.com]
+host = www.verizondigitalmedia.com
+
+++ wikimedia
+menu = [CDN] Wikimedia Foundation
+title = [CDN] Wikimedia Foundation [wikimedia.org]
+host = wikimedia.org
+
+++ yahoo
+menu = [CDN] Yahoo!
+title = [CDN] Yahoo! [www.yahoo.com]
+host = www.yahoo.com
+
+
++ PointsInterestNAW
+menu = North America - Northwest
+title = TITLE-HEADER - North America (Northwest)
+
+++ ubc
+menu = [CA/BC] UBC (Vancouver)
+title = [CA/BC] The University of British Columbia - Vancouver, British Columbia [mirror.it.ubc.ca]
+host = mirror.it.ubc.ca
+
+++ aebc
+menu = [CA/BC] AEBC / Cipherkey
+title = [CA/BC] AEBC / Cipherkey - Vancouver, British Columbia [www.aebc.com]
+host = www.aebc.com
+
+++ bell-yvr
+menu = [CA/BC] Bell (Vancouver)
+title = [CA/BC] Bell - Vancouver, British Columbia [vancnspd01.srvr.bell.ca]
+host = vancnspd01.srvr.bell.ca
+
+++ canadianwebhost-yvr
+menu = [CA/BC] Canadianwebhosting
+title = [CA/BC] Canadianwebhosting - Vancouver, British Columbia [23.111.64.1]
+host = 23.111.64.1
+
+++ freerangecloud-yvr
+menu = [CA/BC] Free Range Cloud
+title = [CA/BC] Free Range Cloud - Vancouver, British Columbia [van.lg.freerangecloud.com]
+host = van.lg.freerangecloud.com
+
+++ fullhost-yvr0
+menu = [CA/BC] FullHost (Vancouver)
+title = [CA/BC] FullHost (Pretecs Networks) @ Astute Internet - Vancouver, British Columbia [lg.vancouver.fullhost.com]
+host = lg.vancouver.fullhost.com
+
+++ novusnow
+menu = [CA/BC] Novus (Vancouver)
+title = [CA/BC] Novus - Vancouver, British Columbia [www.novusnow.ca]
+host = www.novusnow.ca
+
+++ rogers-yvr
+menu = [CA/BC] Rogers (Vancouver)
+title = [CA/BC] Rogers - Vancouver, British Columbia [speedtestbcvan.rogers.com]
+host = speedtestbcvan.rogers.com
+
+++ shaw-yvr
+menu = [CA/BC] Shaw (Vancouver)
+title = [CA/BC] Shaw - Vancouver, British Columbia [speedtest.vc.shawcable.net]
+host = speedtest.vc.shawcable.net
+
+++ teksavvy-yvr
+menu = [CA/BC] Teksavvy (Vancouver)
+title = [CA/BC] Teksavvy - Vancouver, Canada [speedtest-van.teksavvy.com]
+host = speedtest-van.teksavvy.com
+
+++ telus-yvr
+menu = [CA/BC] TELUS (Vancouver)
+title = [CA/BC] TELUS - Vancouver, British Columbia [vancouver.speedtest.telus.com]
+host = vancouver.speedtest.telus.com
+
+++ colocrossing-sea
+menu = [US/WA] ColoCrossing (Seattle)
+title = [US/WA] ColoCrossing - Seattle, Washington [lg.sea.colocrossing.com]
+host = lg.sea.colocrossing.com
+
+++ gthost-sea
+menu = [US/WA] GTHost (Seattle)
+title = [US/WA] GTHost (GlobalTeleHost Corp.) - Seattle, United States [38.91.102.162]
+host = 38.91.102.162
+
+++ ionswitch-sea
+menu = [US/WA] IonSwitch (Seattle)
+title = [US/WA] IonSwitch - Seattle, Washington [lg.ionswitch.com]
+host = lg.ionswitch.com
+
+++ quadranet-sea
+menu = [US/WA] QuadraNet (Seattle)
+title = [US/WA] QuadraNet - Seattle, Washington [173.205.92.235]
+host = 173.205.92.235
+
+++ ramnode-sea
+menu = [US/WA] RamNode (Seattle)
+title = [US/WA] RamNode - Seattle, Washington [lg.sea.ramnode.com]
+host = lg.sea.ramnode.com
+
+++ securedragon-sea
+menu = [US/WA] Hivelocity
+title = [US/WA] SecureDragon @ Hivelocity - Seattle, Washington [198.57.47.4]
+host = 198.57.47.4
+
+++ spartanhost-sea
+menu = [US/WA] SpartanHost (Seattle)
+title = [US/WA] SpartanHost - Seattle, Washington [lg.sea.spartanhost.net]
+host = lg.sea.spartanhost.net
+
+++ usdedicated-sea
+menu = [US/WA] US Dedicated (Seattle)
+title = [US/WA] US Dedicated @ Internap SEF (INAP) - Seattle, Washington [lg.seadedicated.com]
+host = lg.seadedicated.com
+
+++ vultr-sea
+menu = [US/WA] Vultr (Seattle)
+title = [US/WA] Vultr / Choopa - Seattle, Washington [wa-us-ping.vultr.com]
+host = wa-us-ping.vultr.com
+
+++ atnt-sea
+menu = [US/WA] AT&T (Seattle)
+title = [US/WA] AT&T - Seattle, Washington [sea.speedtest.sbcglobal.net]
+host = sea.speedtest.sbcglobal.net
+
+++ centurylink-sea
+menu = [US/WA] CenturyLink (Seattle)
+title = [US/WA] CenturyLink - Seattle, Washington [seattle.speedtest.centurylink.net]
+host = seattle.speedtest.centurylink.net
+
+++ amazon-pdx
+menu = [US/OR] Amazon AWS
+title = [US/OR] Amazon Web Services - Oregon (us-west-2) [54.188.0.0]
+host = 54.188.0.0
+
+++ ceranetworks-pdx
+menu = [US/OR] CeraNetworks
+title = [US/OR] WikiHost @ CeraNetworks - Portland, Oregon [lg.cera-ncp.pdx.50network.com]
+host = lg.cera-ncp.pdx.50network.com
+
+++ gcp-pdx
+menu = [US/OR] Google Cloud
+title = [US/OR] Google Cloud Platform - Oregon (us-west-1) via CloudHarmony [us-west1-gce.cloudharmony.net]
+host = us-west1-gce.cloudharmony.net
+
+++ ovh-pdx
+menu = [US/OR] OVH (Hillsboro)
+title = [US/OR] OVH - Hillsboro, Oregon [pdx1-hil.smokeping.ovh.net]
+host = pdx1-hil.smokeping.ovh.net
+
+++ shaw-cgab
+menu = [CA/AB] Shaw (Calgary)
+title = [CA/AB] Shaw - Calgary, Alberta [speedtest.cg.shawcable.net]
+host = speedtest.cg.shawcable.net
+
+++ telus-cgab
+menu = [CA/AB] TELUS (Calgary)
+title = [CA/AB] TELUS - Calgary, Alberta [calgary.speedtest.telus.com]
+host = calgary.speedtest.telus.com
+
+++ rogers-edab
+menu = [CA/AB] Rogers (Edmonton)
+title = [CA/AB] Rogers - Edmonton, Alberta [speedtestedmonton.rogers.com]
+host = speedtestedmonton.rogers.com
+
+++ shaw-edab
+menu = [CA/AB] Shaw (Edmonton)
+title = [CA/AB] Shaw - Edmonton, Alberta [speedtest.ed.shawcable.net]
+host = speedtest.ed.shawcable.net
+
+++ alaska
+menu = [US/AK] Alaska Comm.
+title = [US/AK] Alaska Communications - Anchorage, AK [speedtest.anc.acsalaska.net]
+host = speedtest.anc.acsalaska.net
+
+
++ PointsInterestNAW2
+menu = North America - Southwest
+title = TITLE-HEADER - North America (Southwest)
+
+++ internet-archive
+menu = [US/CA] Internet Archive
+title = [US/CA] Internet Archive [www.archive.org]
+host = www.archive.org
+
+++ ucberkeley
+menu = [US/CA] UC Berkeley
+title = [US/CA] University of California, Berkeley - Berkeley, CA, US [mirrors.ocf.berkeley.edu]
+host = mirrors.ocf.berkeley.edu
+
+++ aliyun-us-west-1
+menu = [US/CA] Aliyun (us-west-1)
+title = [US/CA] Aliyun / Alibaba Cloud - Silicon Valley (us-west-1) [oss-us-west-1.aliyuncs.com]
+host = oss-us-west-1.aliyuncs.com
+
+++ amazon-ncal
+menu = [US/CA] Amazon AWS
+title = [US/CA] Amazon Web Services - North California (us-west-1) [54.151.0.2]
+host = 54.151.0.2
+
+++ digitalocean-sfo
+menu = [US/CA] Digital Ocean
+title = [US/CA] Digital Ocean - San Francisco, California [speedtest-sfo1.digitalocean.com]
+host = speedtest-sfo1.digitalocean.com
+
+++ linode-ca
+menu = [US/CA] Linode (Fremont)
+title = [US/CA] Linode - Fremont, California [speedtest.fremont.linode.com]
+host = speedtest.fremont.linode.com
+
+++ leaseweb-sfo
+menu = [US/CA] LeaseWeb
+title = [US/CA] LeaseWeb - San Francisco, California [mirror.sfo12.us.leaseweb.net]
+host = mirror.sfo12.us.leaseweb.net
+
+++ softlayer-sjc
+menu = [US/CA] SoftLayer (San Jose)
+title = [US/CA] SoftLayer - San Jose, California [speedtest.sjc01.softlayer.com]
+host = speedtest.sjc01.softlayer.com
+
+++ vultr-sjo
+menu = [US/CA] Vultr (San Jose)
+title = [US/CA] Vultr / Choopa - Silicon Valley [sjo-ca-us-ping.vultr.com]
+host = sjo-ca-us-ping.vultr.com
+
+++ datapacket-sjo
+menu = [US/CA] datapacket (San Jose)
+title = [US/CA] datapacket - San Jose, California [156.146.53.1]
+host = 89.187.160.1
+
+++ anchnet-la
+menu = [US/CA] Anchnet (LA)
+title = [US/CA] Anchnet - Los Angeles, California (CN2 / CDIA) [118.184.73.13]
+host = 118.184.73.13
+
+++ anynode-la
+menu = [US/CA] anyNode (LA)
+title = [US/CA] anyNode - Los Angeles, California [lg.lax.anynode.net]
+host = lg.lax.anynode.net
+
+++ ceranetworks-lax
+menu = [US/CA] CeraNetworks (LA)
+title = [US/CA] WikiHost @ CeraNetworks - Los Angeles, California [lg.cera-gen2.lax.50network.com]
+host = lg.cera-gen2.lax.50network.com
+
+++ ceranetworks-lax-ddos                                                                                       
+menu = [US/CA] CeraNetworks DDoS (LA)                                                                          
+title = [US/CA] WikiHost @ CeraNetworks - Los Angeles, California [lg.cera-gia.lax.50network.com]        
+host = lg.cera-gia.lax.50network.com
+
+++ chinatelecomglobal-us
+menu = [US/CA] China Telecom
+title = [US/CA] China Telecom Global (ctamericas.com) - Los Angeles, California [104.192.111.1]
+host = 104.192.111.1
+
+++ cloudcone
+menu = [US/CA] CloudCone (LA)
+title = [US/CA] CloudCone @ MULTACOM - Los Angeles, California [la.lg.cloudc.one]
+host = la.lg.cloudc.one
+
+++ colocrossing-la
+menu = [US/CA] ColoCrossing (LA)
+title = [US/CA] ColoCrossing - Los Angeles, California [lg.la.colocrossing.com]
+host = lg.la.colocrossing.com
+
+++ dedipath-lax
+menu = [US/CA] DediPath
+title = [US/CA] DediPath - Los Angeles, California [lg.lax.dedicontrol.com]
+host = lg.lax.dedicontrol.com
+
+++ gthost-lax
+menu = [US/CA] GTHost (Los Angeles)
+title = [US/CA] GTHost (GlobalTeleHost Corp.) - Los Angeles, United States [162.251.63.162]
+host = 162.251.63.162
+
+++ hosthatch-lax
+menu = [US/CA] HostHatch (LA)
+title = [US/CA] HostHatch - Los Angeles, California [lg.lax.hosthatch.com]
+host = lg.lax.hosthatch.com
+
+++ psychz-la
+menu = [US/CA] Psychz (Los Angeles)
+title = [US/CA] Psychz - Los Angeles, California [lg.lax.psychz.net]
+host = lg.lax.psychz.net
+
+++ quadranet-la
+menu = [US/CA] QuadraNet (LA)
+title = [US/CA] QuadraNet - Los Angeles, California [198.55.111.5]
+host = 198.55.111.5
+
+++ ramnode-la
+menu = [US/CA] Ramnode (LA)
+title = [US/CA] Ramnode - Los Angeles, California [lg.la.ramnode.com]
+host = lg.la.ramnode.com
+
+++ reliablesite-la
+menu = [US/CA] ReliableSite (LA)
+title = [US/CA] ReliableSite - Los Angeles, CA, US [los-angeles-speedtest.reliablesite.net]
+host = los-angeles-speedtest.reliablesite.net
+
+++ rfchost-la
+menu = [US/CA] RFCHost (LA)
+title = [US/CA] RFCHost / Huajuan / BetaIDC - Los Angeles, California [103.86.70.1]
+host = 103.86.70.1
+
+++ usdedicated-lax
+menu = [US/CA] US Dedicated (LA)
+title = [US/CA] US Dedicated @ Internap (INAP) - Los Angeles, California [lg.ladedicated.com]
+host = lg.ladedicated.com
+
+++ vmhaus-lax
+menu = [US/CA] VMHaus (Los Angeles)
+title = [US/CA] VMHaus - Los Angeles, California [103.105.49.34]
+host = 103.105.49.34
+
+++ voxility-la
+menu = [US/CA] Virmach/Voxility (LA)
+title = [US/CA] Virmach @ Voxility - Los Angeles, DDOS Protected [filtered-la.lg.virmach.com]
+host = filtered-la.lg.virmach.com
+
+++ vultr-lax
+menu = [US/CA] Vultr (Los Angeles)
+title = [US/CA] Vultr / Choopa - Los Angeles, California [lax-ca-us-ping.vultr.com]
+host = lax-ca-us-ping.vultr.com
+
+++ att-ca-lax
+menu = [US/CA] AT&T (Los Angeles)
+title = [US/CA] AT&T - Los Angeles, CA, US [lax.speedtest.sbcglobal.net]
+host = lax.speedtest.sbcglobal.net
+
+++ verizon-caazp1
+menu = [US/CA] Verizon (Los Angeles)
+title = [US/CA] Verizon - Los Angeles, CA, US [caazp1.speed.vzwnet.com]
+host = caazp1.speed.vzwnet.com
+
+++ datapacket-lax
+menu = [US/CA] datapacket (Los Angeles)
+title = [US/CA] datapacket - Los Angeles, CA, US [185.152.67.43]
+host = 185.152.67.43
+
+++ buyvm-lv0
+menu = [US/NV] BuyVM (Las Vegas)
+title = [US/NV] BuyVM - Las Vegas, Nevada [speedtest.lv.buyvm.net]
+host = speedtest.lv.buyvm.net
+
+++ fiberhub-nv
+menu = [US/NV] FiberHub (Las Vegas)
+title = [US/NV] Fiberhub - Las Vegas, NV, US [199.241.143.254]
+host = 199.241.143.254
+
+++ smarthost-nv
+menu = [US/NV] SmartHost (Las Vegas)
+title = [US/NV] SmartHost - Las Vegas, Nevada [199.43.206.3]
+host = 199.43.206.3
+
+++ ioflood
+menu = [US/AZ] IOFLOOD
+title = [US/AZ] IOFLOOD - Phoenix, Arizona [ioflood.com]
+host = ioflood.com
+
+++ securedragon-phoenix
+menu = [US/AZ] SecureDragon
+title = [US/AZ] SecureDragon @ PhoenixNAP - Phoenix, Arizona [162.253.177.4]
+host = 162.253.177.4
+
+++ serverhub-phx
+menu = [US/AZ] Virmach (Phoenix)
+title = [US/AZ] Virmach @ ServerHub - Phoenix, Arizona [phx.lg.virmach.com]
+host = phx.lg.virmach.com
+
+++ wiredblade
+menu = [US/AZ] Wired Blade (Phoenix)
+title = [US/AZ] Wired Blade @ InterNAP (INAP) - Phoenix, Arizona [162.216.242.193]
+host = 162.216.242.193
+
+++ budgetnode-ogd
+menu = [US/UT] BudgetNode (Ogden)
+title = [US/UT] BudgetNode @ WebNX - Ogden, Utah [ogd.lg.budgetnode.net]
+host = ogd.lg.budgetnode.net
+
+++ xmission
+menu = [US/UT] XMission
+title = [US/UT] XMission - Salt Lake City, Utah, US [xmission.com]
+host = xmission.com
+
+++ tmobile-hi-hon
+menu = [US/HI] T-Mobile (Honolulu)
+title = [US/HI] T-Mobile - Honolulu, HI, US [hon.speedtest.t-mobile.com]
+host = hon.speedtest.t-mobile.com
+
+
++ PointsInterestNAC
+menu = North America - Central
+title = TITLE-HEADER - North America (Central)
+
+++ uchicago
+menu = [US/IL] University of Chicago
+title = [US/IL] University of Chicago - Chicago, IL, US [debian.uchicago.edu]
+host = debian.uchicago.edu
+
+++ colocrossing-chi
+menu = [US/IL] ColoCrossing (Chicago)
+title = [US/IL] ColoCrossing - Chicago, Illinois [66.225.198.198]
+host = 66.225.198.198
+
+++ gthost-chi
+menu = [US/IL] GTHost (Chicago)
+title = [US/IL] GTHost (GlobalTeleHost Corp.) - Chicago, United States [162.251.60.162]
+host = 162.251.60.162
+
+++ nfoservers-chi
+menu = [US/IL] NFOservers (Chicago)
+title = [US/IL] NFOservers - Chicago, Illinois [216.52.148.4]
+host = 216.52.148.4
+
+++ psychz-chi
+menu = [US/IL] Psychz (Chicago)
+title = [US/IL] Psychz - Chicago, Illinois [lg.chi.psychz.net]
+host = lg.chi.psychz.net
+
+++ quadranet-chi
+menu = [US/IL] QuadraNet (Chicago)
+title = [US/IL] QuadraNet - Chicago, Illinois [104.129.31.245]
+host = 104.129.31.245
+
+++ rackspace-ord
+menu = [US/IL] Rackspace (Chicago)
+title = [US/IL] Rackspace - Chicago, Illinois [ord.speedtest.rackspace.com]
+host = ord.speedtest.rackspace.com
+
+++ steadfast-il
+menu = [US/IL] Steadfast (Chicago)
+title = [US/IL] Steadfast - Chicago, Illinois [lookingglass.chi.steadfast.net]
+host = lookingglass.chi.steadfast.net
+
+++ usdedicated-chi
+menu = [US/IL] US Dedicated
+title = [US/IL] US Dedicated @ Internap (INAP) - Chicago, Illinois [lg.chidedicated.com]
+host = lg.chidedicated.com
+
+++ vultr-chi
+menu = [US/IL] Vultr (Chicago)
+title = [US/IL] Vultr - Chicago, Illinois [il-us-ping.vultr.com]
+host = il-us-ping.vultr.com
+
+++ centurylink-il-chicago
+menu = [US/IL] CenturyLink (Chicago)
+title = [US/IL] CenturyLink - Chicago, IL, US [chicago.speedtest.centurylink.net]
+host = chicago.speedtest.centurylink.net
+
+++ verizon-winbp1
+menu = [US/WI] Verizon (Milwaukee)
+title = [US/WI] Verizon - Milwaukee, WI, US [winbp1.speed.vzwnet.com]
+host = winbp1.speed.vzwnet.com
+
+++ canadianwebhost-tor
+menu = [CA/ON] Canadianwebhosting
+title = [CA/ON] Canadianwebhosting - Toronto, Ontario [67.231.25.1]
+host = 67.231.25.1
+
+++ dediserve-tor1
+menu = [CA/ON] Dediserve (Toronto)
+title = [CA/ON] Dediserve @ DigitalFyre - Toronto, Ontario, Canada [speedtest.c1.tor1.dediserve.com]
+host = speedtest.c1.tor1.dediserve.com
+
+++ digitalocean-tor1
+menu = [CA/ON] DigitalOcean (Toronto)
+title = [CA/ON] DigitalOcean (TOR1) - Toronto, Canada [speedtest-tor1.digitalocean.com]
+host = speedtest-tor1.digitalocean.com
+
+++ fullhost-tor
+menu = [CA/ON] FullHost (Toronto)
+title = [CA/ON] FullHost (Pretecs Networks) @ Astute Internet - Toronto, Canada [lg.toronto.fullhost.com]
+host = lg.toronto.fullhost.com
+
+++ gthost-tor
+menu = [CA/ON] GTHost (Toronto)
+title = [CA/ON] GTHost (GlobalTeleHost Corp.) - Toronto, Canada [198.57.26.164]
+host = 198.57.26.164
+
+++ linode-tor
+menu = [CA/ON] Linode (Toronto)
+title = [CA/ON] Linode - Toronto, Canada [speedtest.tor1.linode.com]
+host = speedtest.toronto1.linode.com
+
+++ lunanode-tor
+menu = [CA/ON] LunaNode (Toronto)
+title = [CA/ON] LunaNode - Toronto, Canada [toronto-test.lunanode.com]
+host = toronto-test.lunanode.com
+
+++ softlayer-tor
+menu = [CA/ON] SoftLayer (Toronto)
+title = [CA/ON] SoftLayer (tor01) - Toronto, Canada [speedtest.tor01.softlayer.com]
+host = speedtest.tor01.softlayer.com
+
+++ teksavvy
+menu = [CA/ON] Teksavvy (Toronto)
+title = [CA/ON] Teksavvy - Toronto, Canada [speedtest.teksavvy.com]
+host = speedtest.teksavvy.com
+
+++ vultr-tor
+menu = [CA/ON] Vultr (Toronto)
+title = [CA/ON] Vultr - Toronto, Ontario, Canada [tor-ca-ping.vultr.com]
+host = tor-ca-ping.vultr.com
+
+++ smarthost-co
+menu = [US/CO] SmartHost (Denver)
+title = [US/CO] SmartHost - Denver, Colorado [192.199.242.2]
+host = 192.199.242.2
+
+++ securedragon-denver
+menu = [US/CO] SecureDragon
+title = [US/CO] SecureDragon @ Handy Networks - Denver, CO, United States [198.57.46.4]
+host = 198.57.46.4
+
+++ dedispec-mo
+menu = [US/MO] Dedispec (Kansas City)
+title = [US/MO] Dedispec - Kansas City, Missouri [198.204.225.10]
+host = 198.204.225.10
+
+++ nocix
+menu = [US/MO] Nocix
+title = [US/MO] Nocix / Wholesale Internet - Kansas City, Missouri [192.187.107.154]
+host = 192.187.107.154
+
+++ joes-dc
+menu = [US/MO] Joe's Datacenter
+title = [US/MO] Joe's Datacenter - Kansas City, Missouri [lg.joesdatacenter.com]
+host = lg.joesdatacenter.com
+
+++ gcp-iowa
+menu = [US/IA] Google Cloud
+title = [US/IA] Google Cloud Platform (us-central1) - Council Bluffs, Iowa, United States [us-central1-gce.cloudharmony.net]
+host = us-central1-gce.cloudharmony.net
+
+++ amazon-ohi
+menu = [US/OH] Amazon AWS
+title = [US/OH] Amazon Web Services (us-east-2) - Ohio, United States [18.188.0.0]
+host = 18.188.0.0
+
+++ freerangecloud-ywg
+menu = [CA/MB] Free Range Cloud
+title = [CA/MB] Free Range Cloud @ FastNet - Winnipeg, Manitoba, Canada [lg.freerangecloud.com]
+host = lg.freerangecloud.com
+
+++ cox-ne-om
+menu = [US/NE] Cox (Omaha)
+title = [US/NE] Cox Communications - Omaha, NE, US [speedtest.rd.om.cox.net]
+host = speedtest.rd.om.cox.net
+
+++ att-in-ind
+menu = [US/IN] AT&T (Indianapolis)
+title = [US/IN] AT&T - Indianapolis, IN, US [ind.speedtest.sbcglobal.net]
+host = ind.speedtest.sbcglobal.net
+
+++ tmobile-mi-det
+menu = [US/MI] T-Mobile (Detroit)
+title = [US/MI] T-Mobile - Detroit, MI, US [det.speedtest.t-mobile.com]
+host = det.speedtest.t-mobile.com
+
+
++ PointsInterestNAS
+menu = North America - South
+title = TITLE-HEADER - North America (South)
+
+++ colocrossing-dal-0
+menu = [US/TX] ColoCrossing (Dallas)
+title = [US/TX] ColoCrossing - Dallas, Texas [lg.dal.colocrossing.com]
+host = lg.dal.colocrossing.com
+
+++ impactvps-dal
+menu = [US/TX] ImpactVPS (Dallas)
+title = [US/TX] ImpactVPS @ Incero - Dallas, Texas [172.110.8.1]
+host = 172.110.8.1
+
+++ linode-dal
+menu = [US/TX] Linode (Dallas)
+title = [US/TX] Linode - Dallas, Texas [speedtest.dallas.linode.com]
+host = speedtest.dallas.linode.com
+
+++ nexril
+menu = [US/TX] Nexril (Dallas)
+title = [US/TX] Nexril - Dallas, Texas [lg.nexril.net]
+host = lg.nexril.net
+
+++ psychz-texas
+menu = [US/TX] Psychz (Dallas)
+title = [US/TX] Psychz - Dallas, Texas [lg.texas.psychz.net]
+host = lg.texas.psychz.net
+
+++ rackspace-dfw
+menu = [US/TX] Rackspace (Dallas)
+title = [US/TX] Rackspace - Dallas, Texas [dfw.speedtest.rackspace.com]
+host = dfw.speedtest.rackspace.com
+
+++ ssdblaze-dal
+menu = [US/TX] SSDBlaze (Dallas)
+title = [US/TX] SSDBlaze - Dallas, Texas [lg-dal.ssdblaze.com]
+host = lg-dal.ssdblaze.com
+
+++ quadranet-dal
+menu = [US/TX] QuadraNet (Dallas)
+title = [US/TX] QuadraNet - Dallas, Texas [lg.dal.colocrossing.com]
+host = lg.dal.colocrossing.com
+
+++ usdedicated-dal
+menu = [US/TX] US Dedicated (Dallas)
+title = [US/TX] US Dedicated @ Internap DAL006 (INAP) - Dallas, Texas [lg.daldedicated.com]
+host = lg.daldedicated.com
+
+++ vultr-dal
+menu = [US/TX] Vultr (Dallas)
+title = [US/TX] Vultr - Dallas, Texas [tx-us-ping.vultr.com]
+host = tx-us-ping.vultr.com
+
+++ charter-tx-spt01ftwotx
+menu = [US/TX] Charter (Fort Worth)
+title = [US/TX] Charter - Fort Worth, TX, US [spt01ftwotx.ftwo.tx.charter.com]
+host = spt01ftwotx.ftwo.tx.charter.com
+
+++ softlayer-hou
+menu = [US/TX] SoftLayer (Houston)
+title = [US/TX] SoftLayer (hou02) - Houston, Texas [speedtest.hou02.softlayer.com]
+host = speedtest.hou02.softlayer.com
+
+++ centurylink-nm-albuquerque
+menu = [US/NM] CenturyLink
+title = [US/NM] CenturyLink - Albuquerque, NM, US [albuquerque.speedtest.centurylink.net]
+host = albuquerque.speedtest.centurylink.net
+
+++ att-la-msy
+menu = [US/LA] AT&T (New Orleans)
+title = [US/LA] AT&T - New Orleans, LA, US [msy.speedtest.sbcglobal.net]
+host = msy.speedtest.sbcglobal.net
+
+++ softlayer-mex
+menu = [MX] SoftLayer (Queretaro)
+title = [MX] SoftLayer (mex01) - Queretaro, Mexico [speedtest.mex01.softlayer.com]
+host = speedtest.mex01.softlayer.com
+
+++ maxcom
+menu = [MX] Maxcom (Mexico City)
+title = [MX] Maxcom - Mexico City, Mexico [speedmax.maxcom.net.mx]
+host = speedmax.maxcom.net.mx
+
+++ alestra
+menu = [MX] Alestra (Mexico City)
+title = [MX] Alestra - Mexico City, Mexico [speedtest-mex-01.alestra.net.mx]
+host = speedtest-mex-01.alestra.net.mx
+
+++ telefonica-mx5
+menu = [MX] Telefonica (Cancun)
+title = [MX] Telefonica/Movistar Mexico - Cancun, Mexico [internet5.movistar.com.mx]
+host = internet5.movistar.com.mx
+
+
++ PointsInterestNAE
+menu = North America - Northeast
+title = TITLE-HEADER - North America (Northeast)
+
+++ columbia-u
+menu = [US/NY] Columbia University
+title = [US/NY] Columbia University - New York City, NY, US [mirror.cc.columbia.edu]
+host = mirror.cc.columbia.edu
+
+++ att-ny-nyc
+menu = [US/NY] AT&T (New York City)
+title = [US/NY] AT&T - New York City, NY, US [nyc.speedtest.sbcglobal.net]
+host = nyc.speedtest.sbcglobal.net
+
+++ buyvm-ny
+menu = [US/NY] BuyVM (NYC)
+title = [US/NY] BuyVM - New York, USA [speedtest.ny.buyvm.net]
+host = speedtest.ny.buyvm.net
+
+++ colocrossing-nyc
+menu = [US/NY] ColoCrossing (NYC)
+title = [US/NY] ColoCrossing - New York City, NY, US [lg.nyc.colocrossing.com]
+host = lg.nyc.colocrossing.com
+
+++ digitalocean-nyc3
+menu = [US/NY] DigitalOcean (NYC)
+title = [US/NY] DigitalOcean (NYC3) - New York City, NY, US [speedtest-nyc3.digitalocean.com]
+host = speedtest-nyc3.digitalocean.com
+
+++ hosthatch-nyc
+menu = [US/NY] HostHatch (NYC)
+title = [US/NY] HostHatch - New York City [lg.ny.hosthatch.com]
+host = lg.ny.hosthatch.com
+
+++ impactvps-nyk
+menu = [US/NY] ImpactVPS @ Incero
+title = [US/NY] ImpactVPS @ Incero - New York City, NY, US [172.110.20.1]
+host = 172.110.20.1
+
+++ ramnode-nyc
+menu = [US/NY] Ramnode (NYC)
+title = [US/NY] Ramnode - New York City, NY, US [lg.nyc.ramnode.com]
+host = lg.nyc.ramnode.com
+
+++ reliablesite-nyc
+menu = [US/NY] ReliableSite (NYC)
+title = [US/NY] ReliableSite - New York City, NY, US [nycmetro-speedtest.reliablesite.net]
+host = nycmetro-speedtest.reliablesite.net
+
+++ usdedicated-ny
+menu = [US/NY] US Dedicated
+title = [US/NY] US Dedicated @ CoreSite NY2 + Internap (INAP) - New York City, New York [lg.nycdedicated.com]
+host = lg.nycdedicated.com
+
+++ colocrossing-buf
+menu = [US/NY] ColoCrossing (Buffalo)
+title = [US/NY] ColoCrossing - Buffalo, New York [192.3.180.103]
+host = 192.3.180.103
+
+++ linode-nj
+menu = [US/NJ] Linode (Newark)
+title = [US/NJ] Linode - Newark, New Jersey [speedtest.newark.linode.com]
+host = speedtest.newark.linode.com
+
+++ quadranet-nj
+menu = [US/NJ] QuadraNet
+title = [US/NJ] QuadraNet - Secaucus, NJ, US [23.226.128.10]
+host = 23.226.128.10
+
+++ smarthost-nj
+menu = [US/NJ] SmartHost (Piscataway)
+title = [US/NJ] SmartHost - Piscataway, New Jersey [66.11.120.2]
+host = 66.11.120.2
+
+++ steadfast-nj
+menu = [US/NJ] Steadfast (Edison)
+title = [US/NJ] Steadfast - Edison, New Jersey [lookingglass.edi.steadfast.net]
+host = lookingglass.edi.steadfast.net
+
+++ vultr-nj
+menu = [US/NJ] Vultr
+title = [US/NJ] Vultr (New Jersey) [nj-us-ping.vultr.com]
+host = nj-us-ping.vultr.com
+
+++ securedragon-piscataway
+menu = [US/NJ] SecureDragon
+title = [US/NJ] SecureDragon @ DuPont Fabros - Piscataway, NJ, United States [162.253.176.4]
+host = 162.253.176.4
+
+++ amazon-ca
+menu = [CA/QC] Amazon AWS
+title = [CA/QC] Amazon Web Services (ca-central-1) - Central Canada [35.182.0.251]
+host = 35.182.0.251
+
+++ gcp-yul
+menu = [CA/QC] Google Cloud
+title = [CA/QC] Google Cloud Platform (northamerica-northeast1) - Montreal, Canada [northamerica-northeast1-gce.cloudharmony.net]
+host = northamerica-northeast1-gce.cloudharmony.net
+
+++ m247-montreal
+menu = [CA/QC] M247 (Montreal)
+title = [CA/QC] M247 - Montreal, Canada [speed.ca.m247.ro]
+host = speed.ca.m247.ro
+
+++ ovh-bhs
+menu = [CA/QC] OVH (Beauharnois)
+title = [CA/QC] OVH - Beauharnois, Quebec, Canada [ymq1-bhs.smokeping.ovh.net]
+host = ymq1-bhs.smokeping.ovh.net
+
+++ servarica
+menu = [CA/QC] ServaRICA (Montreal)
+title = [CA/QC] ServaRICA @ eStruxture - Montreal, Canada [ping.servarica.com]
+host = ping.servarica.com
+
+++ softlayer-mon
+menu = [CA/QC] SoftLayer (Montreal)
+title = [CA/QC] SoftLayer (mon01) - Montreal, Canada [speedtest.mon01.softlayer.com]
+host = speedtest.mon01.softlayer.com
+
+++ telus-moqc
+menu = [CA/QC] TELUS (Montreal)
+title = [CA/QC] TELUS - Montreal, Canada [montreal.speedtest.telus.com]
+host = montreal.speedtest.telus.com
+
+++ quonix
+menu = [US/PA] Quonix (Philadelphia)
+title = [US/PA] Quonix - Philadelphia, Pennsylvania [www.quonix.net]
+host = www.quonix.net
+
+++ mit-csail
+menu = [US/MA] MIT
+title = [US/MA] Massachusetts Institute of Technology - Cambridge, Massachusetts, US [csail.mit.edu]
+host = csail.mit.edu
+
+++ smarthost-ma
+menu = [US/MA] SmartHost
+title = [US/MA] SmartHost - Somerville, Massachusetts [38.242.7.129]
+host = 38.242.7.129
+
+++ cox-ri-ri
+menu = [US/RI] Cox (Providence)
+title = [US/RI] Cox Communications - Providence, Rhode Island [speedtest.rd.ri.cox.net]
+host = speedtest.rd.ri.cox.net
+
+++ bellaliant-hfns
+menu = [CA/NS] Bell Aliant (Halifax)
+title = [CA/NS] Bell Aliant - Halifax, Canada [speedtest-ns.bellaliant.net]
+host = speedtest-ns.bellaliant.net
+
+
++ PointsInterestNASE
+menu = North America - Southeast
+title = TITLE-HEADER - North America (Southeast)
+
+++ aliyun-us-east-1
+menu = [US/VA] Aliyun
+title = [US/VA] Aliyun / Alibaba Cloud - Virginia (us-east-1) [oss-us-east-1.aliyuncs.com]
+host = oss-us-east-1.aliyuncs.com
+
+++ amazon-nva
+menu = [US/VA] Amazon AWS
+title = [US/VA] Amazon Web Services (us-east-1) - North Virginia [52.1.255.254]
+host = 52.1.255.254
+
+++ freerangecloud-ash
+menu = [US/VA] Free Range Cloud
+title = [US/VA] Free Range Cloud - Ashburn, Virginia [ash.lg.freerangecloud.com]
+host = ash.lg.freerangecloud.com
+
+++ i3d-va-na
+menu = [US/VA] i3D.net (Ashburn)
+title = [US/VA] i3D.net - Ashburn, VA, United States [va.na.speedtest.i3d.net]
+host = va.na.speedtest.i3d.net
+
+++ ovh-va
+menu = [US/VA] OVH (Vint Hill)
+title = [US/VA] OVH - Vint Hill, Virginia, US [was1-vin.smokeping.ovh.net]
+host = was1-vin.smokeping.ovh.net
+
+++ psychz-va
+menu = [US/VA] Psychz (Ashburn)
+title = [US/VA] Psychz - Ashburn, Virginia [lg.va.psychz.net]
+host = lg.va.psychz.net
+
+++ rackspace-iad
+menu = [US/VA] Rackspace (Reston)
+title = [US/VA] Rackspace - Reston, Virginia [iad.speedtest.rackspace.com]
+host = iad.speedtest.rackspace.com
+
+++ tencent-na-ashburn
+menu = [US/VA] Tencent Cloud
+title = [US/VA] Tencent Cloud - Virginia, United States [cos.na-ashburn.myqcloud.com]
+host = cos.na-ashburn.myqcloud.com
+
+++ datapacket-ashburn
+menu = [US/VA] datapacket
+title = [US/VA] datapacket - Virginia, United States [37.19.206.8]
+host = 37.19.206.8
+
+++ leaseweb-wdc1
+menu = [US/DC] LeaseWeb
+title = [US/DC] LeaseWeb - Washington D.C. [mirror.wdc1.us.leaseweb.net]
+host = mirror.wdc1.us.leaseweb.net
+
+++ att-ga-atl
+menu = [US/GA] AT&T
+title = [US/GA] AT&T - Tucker, GA, US [atl.speedtest.sbcglobal.net]
+host = atl.speedtest.sbcglobal.net
+
+++ colocrossing-atl
+menu = [US/GA] ColoCrossing (Atlanta)
+title = [US/GA] ColoCrossing - Atlanta, Georgia [lg.atl.colocrossing.com]
+host = lg.atl.colocrossing.com
+
+++ cox-ga-at
+menu = [US/GA] Cox Communications
+title = [US/GA] Cox Communications - Alpharetta, GA, US [speedtest.rd.at.cox.net]
+host = speedtest.rd.at.cox.net
+
+++ linode-atl
+menu = [US/GA] Linode (Atlanta)
+title = [US/GA] Linode - Atlanta, Georgia [speedtest.atlanta.linode.com]
+host = speedtest.atlanta.linode.com
+
+++ quadranet-atl
+menu = [US/GA] QuadraNet (Atlanta)
+title = [US/GA] QuadraNet - Atlanta, Georgia [104.223.90.5]
+host = 104.223.90.5
+
+++ ramnode-atl
+menu = [US/GA] Ramnode (Atlanta)
+title = [US/GA] Ramnode - Atlanta, Georgia [lg.atl.ramnode.com]
+host = lg.atl.ramnode.com
+
+++ usdedicated-atl
+menu = [US/GA] US Dedicated (Atlanta)
+title = [US/GA] US Dedicated @ Internap ACS (INAP) - Atlanta, Georgia [lg.atldedicated.net]
+host = lg.atldedicated.net
+
+++ vultr-atl
+menu = [US/GA] Vultr (Atlanta)
+title = [US/GA] Vultr - Atlanta, Georgia [ga-us-ping.vultr.com]
+host = ga-us-ping.vultr.com
+
+++ securedragon-tampa
+menu = [US/FL] SecureDragon (Tampa)
+title = [US/FL] SecureDragon @ Hivelocity - Tampa, FL, United States [199.167.30.105]
+host = 199.167.30.105
+
+++ gthost-mia
+menu = [US/FL] GTHost (Miami)
+title = [US/FL] GTHost (GlobalTeleHost Corp.) - Miami, United States [162.251.62.162]
+host = 162.251.62.162
+
+++ quadranet-mia
+menu = [US/FL] QuadraNet (Miami)
+title = [US/FL] QuadraNet - Miami, Florida [173.44.32.10]
+host = 173.44.32.10
+
+++ reliablesite-mia
+menu = [US/FL] ReliableSite
+title = [US/FL] ReliableSite - Miami, FL, US [miami-speedtest.reliablesite.net]
+host = miami-speedtest.reliablesite.net
+
+++ vultr-mia
+menu = [US/FL] Vultr (Miami)
+title = [US/FL] Vultr - Miami, Florida [fl-us-ping.vultr.com]
+host = fl-us-ping.vultr.com
+
+++ att-fl-mco
+menu = [US/FL] AT&T (Orlando)
+title = [US/FL] AT&T - Orlando, FL, US [mco.speedtest.sbcglobal.net]
+host = mco.speedtest.sbcglobal.net
+
+++ tmobile-fl-orl
+menu = [US/FL] T-Mobile (Orlando)
+title = [US/FL] T-Mobile - Orlando, FL, US [orl.speedtest.t-mobile.com]
+host = orl.speedtest.t-mobile.com
+
+++ dedispec-wv
+menu = [US/WV] Dedispec
+title = [US/WV] Dedispec - Berkeley Springs, West Virginia [208.73.23.243]
+host = 208.73.23.243
+
+++ dacentec-ler
+menu = [US/NC] Dacentec (Lenoir)
+title = [US/NC] mrvm.net @ Dacentec - Lenoir, North Carolina [lg-us-ler.mrvm.net]
+host = lg-us-ler.mrvm.net
+
+++ hostus-clt
+menu = [US/NC] HostUS (Charlotte)
+title = [US/NC] HostUS - Charlotte, North Carolina [clt-lg.hostus.us]
+host = clt-lg.hostus.us
+
+++ centurylink-sc-columbia
+menu = [US/SC] CenturyLink (Columbia)
+title = [US/SC] CenturyLink - Columbia, SC, US [columbia.speedtest.centurylink.net]
+host = columbia.speedtest.centurylink.net
+
+++ gcp-sou
+menu = [US/SC] Google Cloud
+title = [US/SC] Google Cloud Platform (us-east1) - South Carolina [us-east1-gce.cloudharmony.net]
+host = us-east1-gce.cloudharmony.net
+
+++ att-tn-bna
+menu = [US/TN] AT&T (Nashville)
+title = [US/TN] AT&T - Nashville, TN, US [bna.speedtest.sbcglobal.net]
+host = bna.speedtest.sbcglobal.net
+
+
++ PointsInterestEU
+menu = Europe - UK, Ireland
+title = TITLE-HEADER - United Kingdom & Ireland
+
+++ aliyun-eu-west-1
+menu = [UK] Aliyun (London)
+title = [UK] Aliyun - London, United Kingdom [oss-eu-west-1.aliyuncs.com]
+host = oss-eu-west-1.aliyuncs.com
+
+++ amazon-lon
+menu = [UK] Amazon AWS (London)
+title = [UK] Amazon Web Services - London, United Kingdom [3.8.0.0]
+host = 3.8.0.0
+
+++ clouvider-lon
+menu = [UK] Clouvider (London)
+title = [UK] Clouvider - London, United Kingdom [lg.clouvider.net]
+host = lg.clouvider.net
+
+++ digitalocean-lon
+menu = [UK] DigitalOcean (London)
+title = [UK] DigitalOcean (LON1) - London, United Kingdom [speedtest-lon1.digitalocean.com]
+host = speedtest-lon1.digitalocean.com
+
+++ gcp-lon
+menu = [UK] Google Cloud
+title = [UK] Google Cloud Platform (europe-west2) - London, United Kingdom [europe-west2-gce.cloudharmony.net]
+host = europe-west2-gce.cloudharmony.net
+
+++ iomart-1
+menu = [UK] iomart (Maidenhead)
+title = [UK] iomart - Maidenhead, United Kingdom [speedtest-net1.rapidswitch.co.uk]
+host = speedtest-net1.rapidswitch.co.uk
+
+++ linode-lon
+menu = [UK] Linode (London)
+title = [UK] Linode - London, United Kingdom [speedtest.london.linode.com]
+host = speedtest.london.linode.com
+
+++ ovh-lon
+menu = [UK] OVH (London)
+title = [UK] OVH - Erith, London, United Kingdom [lon1-eri.smokeping.ovh.net]
+host = lon1-eri.smokeping.ovh.net
+
+++ psychz-lon
+menu = [UK] Psychz (London)
+title = [UK] Psychz - London, United Kingdom [lg.lon.psychz.net]
+host = lg.lon.psychz.net
+
+++ vmhaus-lon
+menu = [UK] VMHaus (London)
+title = [UK] VMHaus - London, United Kingdom [lg.thn2.vmhaus.com]
+host = lg.thn2.vmhaus.com
+
+++ vultr-lon
+menu = [UK] Vultr (London)
+title = [UK] Vultr - London, United Kingdom [lon-gb-ping.vultr.com]
+host = lon-gb-ping.vultr.com
+
+++ datapacket-lon
+menu = [UK] datapacket (London)
+title = [UK] datapacket - London, United Kingdom [185.59.221.51]
+host = 185.59.221.51
+
+++ iomart-5
+menu = [UK] iomart (Gosport)
+title = [UK] iomart - Gosport, United Kingdom [speedtest-net5.rapidswitch.co.uk]
+host = speedtest-net5.rapidswitch.co.uk
+
+++ loveservers-man
+menu = [UK] LoveServers (Manchester)
+title = [UK] LoveServers @ iomart - Manchester, United Kingdom [lg.loveservers.com]
+host = lg.loveservers.com
+
+++ m247-manchester
+menu = [UK] M247 (Manchester)
+title = [UK] M247 - Manchester, England [speed.uk.man.m247.ro]
+host = speed.uk.man.m247.ro
+
+++ amazon-ir
+menu = [IE] Amazon AWS (Ireland)
+title = [IE] Amazon Web Services (eu-west-1) - Ireland [54.216.0.1]
+host = 54.216.0.1
+
+++ dediserve-dub2
+menu = [IE] Dediserve (Dublin)
+title = [IE] Dediserve @ Digiweb - Dublin, Ireland [speedtest.c1.dub2.dediserve.com]
+host = speedtest.c1.dub2.dediserve.com
+
+++ edis-im
+menu = [IM] EDIS (Isle of Man)
+title = [IM] EDIS - Douglas, Isle of Man [im.edis.at]
+host = im.edis.at
+
+
++ PointsInterestEU1
+menu = Europe - France
+title = TITLE-HEADER - France
+
+++ 1fichier
+menu = [FR] 1fichier
+title = [FR] 1fichier.com (DStorage SASU) [1fichier.com]
+host = 1fichier.com
+
+++ amazon-par
+menu = [FR] Amazon AWS (Paris)
+title = [FR] Amazon Web Services - Paris, France [52.47.32.127]
+host = 52.47.32.127
+
+++ edis-fr
+menu = [FR] EDIS (Paris)
+title = [FR] EDIS - Paris, France [fr.edis.at]
+host = fr.edis.at
+
+++ online-net-par
+menu = [FR] Online.net (Paris)
+title = [FR] Online.net - Paris, France [ping.online.net]
+host = ping.online.net
+
+++ softlayer-par
+menu = [FR] SoftLayer (Paris)
+title = [FR] SoftLayer (par01) - Paris, France [speedtest.par01.softlayer.com]
+host = speedtest.par01.softlayer.com
+
+++ vultr-par
+menu = [FR] Vultr (Paris)
+title = [FR] Vultr - Paris, France [par-fr-ping.vultr.com]
+host = par-fr-ping.vultr.com
+
+++ sfr
+menu = [FR] SFR (Paris)
+title = [FR] SFR - Paris, France [speedtest.mire.sfr.net]
+host = speedtest.mire.sfr.net
+
+++ datapacket-par
+menu = [FR] datapacket (Paris)
+title = [FR] datapacket - Paris, France [185.93.2.193]
+host = 185.93.2.193
+
+++ sfr-lyon
+menu = [FR] SFR (Lyon)
+title = [FR] SFR - Lyon, France [cor2.speedtest.mire.sfr.net]
+host = cor2.speedtest.mire.sfr.net
+
+++ ovh-gra
+menu = [FR] OVH (Gravelines)
+title = [FR] OVH - Gravelines, France [lil2-gra.smokeping.ovh.net]
+host = lil2-gra.smokeping.ovh.net
+
+++ ovh-rbx
+menu = [FR] OVH (Roubaix)
+title = [FR] OVH - Roubaix, France [lil1-rbx.smokeping.ovh.net]
+host = lil1-rbx.smokeping.ovh.net
+
+++ ovh-sbg
+menu = [FR] OVH (Strasbourg)
+title = [FR] OVH - Strasbourg, France [sbg.smokeping.ovh.net]
+host = sbg.smokeping.ovh.net
+
+++ datapacket-mrs
+menu = [FR] datapacket (Marseille)
+title = [FR] datapacket - Marseille, France [138.199.14.66]
+host = 138.199.14.66
+
+#++ ikoula
+#menu = [FR] Ikoula (Reims)
+#title = [FR] Ikoula - Reims, France [lg.ikoula.com]
+#host = lg.ikoula.com
+
+
++ PointsInterestEU5
+menu = Europe - Benelux
+title = TITLE-HEADER - Benelux (Belgium, The Netherlands, Luxembourg)
+
+++ budgetnode-nl
+menu = [NL] BudgetNode (Lelystad)
+title = [NL] BudgetNode - Lelystad, Flevoland, Netherlands [nl.lg.budgetnode.net]
+host = nl.lg.budgetnode.net
+
+++ crowncloud-ams
+menu = [NL] CrownCloud (Amsterdam)
+title = [NL] CrownCloud @ Switch Datacenter - Amsterdam, Netherlands [185.243.112.1]
+host = 185.243.112.1
+
+++ digitalocean-ams
+menu = [NL] DigitalOcean (Amsterdam)
+title = [NL] DigitalOcean (AMS2) - Amsterdam, Netherlands [speedtest-ams2.digitalocean.com]
+host = speedtest-ams2.digitalocean.com
+
+++ hosthatch-ams
+menu = [NL] HostHatch (Amsterdam)
+title = [NL] HostHatch @ NFOrce - Amsterdam, Netherlands [lg.ams.hosthatch.com]
+host = lg.ams.hosthatch.com
+
+++ datapacket-ams
+menu = [NL] datapacket (Amsterdam)
+title = [NL] datapacket - Amsterdam, Netherlands [185.102.218.1]
+host = 185.102.218.1
+
+++ i3d-nl1
+menu = [NL] i3D.net (Rotterdam)
+title = [NL] i3D.net - Rotterdam, Netherlands [eu.speedtest.i3d.net]
+host = eu.speedtest.i3d.net
+
+++ leaseweb-nl
+menu = [NL] LeaseWeb
+title = [NL] LeaseWeb - The Netherlands [mirror.nl.leaseweb.net]
+host = mirror.nl.leaseweb.net
+
+++ liteserver-dro
+menu = [NL] LiteServer (Dronten)
+title = [NL] LiteServer - Dronten, Netherlands [lg-dro.liteserver.nl]
+host = lg-dro.liteserver.nl
+
+++ serverius-nl
+menu = [NL] Serverius (Dronten)
+title = [NL] Serverius - Dronten, Netherlands [lg.serverius.net]
+host = lg.serverius.net
+
+
+++ online-net-ams
+menu = [NL] Online.net (Amsterdam)
+title = [NL] Online.net - Amsterdam, Netherlands [ping-ams1.online.net]
+host = ping-ams1.online.net
+
+++ quadranet-ams
+menu = [NL] QuadraNet (Amsterdam)
+title = [NL] QuadraNet - Amsterdam, Netherlands [161.129.64.235]
+host = 161.129.64.235
+
+++ ramnode-ams
+menu = [NL] Ramnode
+title = [NL] Ramnode - Alblasserdam, Netherlands [lg.nl.ramnode.com]
+host = lg.nl.ramnode.com
+
+++ vultr-ams
+menu = [NL] Vultr (Amsterdam)
+title = [NL] Vultr - Amsterdam, Netherlands [ams-nl-ping.vultr.com]
+host = ams-nl-ping.vultr.com
+
+++ ultravps-ams
+menu = [NL] UltraVPS (Amsterdam)
+title = [NL] UltraVPS - Amsterdam, Netherlands [lg.ams.nl.ultravps.eu]
+host = lg.ams.nl.ultravps.eu
+
+++ xs4all
+menu = [NL] XS4ALL (Amsterdam)
+title = [NL] XS4ALL - Amsterdam, NL [speedtest.xs4all.nl]
+host = speedtest.xs4all.nl
+
+++ edis-be
+menu = [BE] EDIS (Oostkamp)
+title = [BE] EDIS - Oostkamp, Belgium [be.edis.at]
+host = be.edis.at
+
+++ gcp-bel
+menu = [BE] Google Cloud
+title = [BE] Google Cloud Platform (europe-west1) - St. Ghislain, Belgium [europe-west1-gce.cloudharmony.net]
+host = europe-west1-gce.cloudharmony.net
+
+++ m247-brussels
+menu = [BE] M247 (Brussels)
+title = [BE] M247 - Brussels, Belgium [speed.be.m247.ro]
+host = speed.be.m247.ro
+
+++ buyvm-lu
+menu = [LU] BuyVM (Luxembourg)
+title = [LU] BuyVM - Roost, Luxembourg [speedtest.lu.buyvm.net]
+host = speedtest.lu.buyvm.net
+
+
++ PointsInterestEU6
+menu = Europe - Germany
+title = TITLE-HEADER - Germany
+
+++ first-root
+menu = [DE] First Root (Dusseldorf)
+title = [DE] First Root - Dusseldorf, Germany [lg.first-root.com]
+host = lg.first-root.com
+
+++ ultravps-de
+menu = [DE] UltraVPS (Dusseldorf)
+title = [DE] UltraVPS - Dusseldorf, Germany [lg.dus.de.ultravps.eu]
+host = lg.dus.de.ultravps.eu
+
+++ acceleratedit-fra
+menu = [DE] AcceleratedIT (Frankfurt)
+title = [DE] AcceleratedIT - Frankfurt, Germany [lg.ip-projects.de]
+host = lg.ip-projects.de
+
+++ amazon-fra
+menu = [DE] Amazon AWS (Frankfurt)
+title = [DE] Amazon Web Services - Frankfurt, Germany [18.196.0.253]
+host = 18.196.0.253
+
+++ combahton
+menu = [DE] combahton (Frankfurt)
+title = [DE] combahton IT Services (FFM2) - Frankfurt, Germany [lg.combahton.net]
+host = lg.combahton.net
+
+++ first-colo
+menu = [DE] First-Colo (Frankfurt)
+title = [DE] First-Colo - Frankfurt, Germany [lg.first-colo.net]
+host = lg.first-colo.net
+
+++ digitalocean-fra
+menu = [DE] DigitalOcean (Frankfurt)
+title = [DE] DigitalOcean (FRA1) - Frankfurt, Germany [speedtest-fra1.digitalocean.com]
+host = speedtest-fra1.digitalocean.com
+
+++ gcp-fra
+menu = [DE] Google Cloud
+title = [DE] Google Cloud Platform (europe-west3) - Frankfurt, Germany [europe-west3-gce.cloudharmony.net]
+host = europe-west3-gce.cloudharmony.net
+
+++ gthost-fra
+menu = [DE] GTHost (Frankfurt)
+title = [DE] GTHost (GlobalTeleHost Corp.) - Frankfurt, Germany [193.108.116.162]
+host = 193.108.116.162
+
+++ leaseweb-de
+menu = [DE] LeaseWeb
+title = [DE] LeaseWeb - Germany [mirror.de.leaseweb.net]
+host = mirror.de.leaseweb.net
+
+++ linode-fra
+menu = [DE] Linode (Frankfurt)
+title = [DE] Linode - Frankfurt, Germany [speedtest.frankfurt.linode.com]
+host = speedtest.frankfurt.linode.com
+
+++ ovh-fra
+menu = [DE] OVH (Frankfurt)
+title = [DE] OVH - Frankfurt, Germany [fra1-lim.smokeping.ovh.net]
+host = fra1-lim.smokeping.ovh.net
+
+++ serverhub-ffm
+menu = [DE] Virmach (Frankfurt)
+title = [DE] Virmach @ ServerHub - Frankfurt, Germany [ffm.lg.virmach.com]
+host = ffm.lg.virmach.com
+
+++ vultr-fra
+menu = [DE] Vultr (Frankfurt)
+title = [DE] Vultr - Frankfurt, Germany [fra-de-ping.vultr.com]
+host = fra-de-ping.vultr.com
+
+++ datapacket-fra
+menu = [DE] datapacket (Frankfurt)
+title = [DE] datapacket - Frankfurt, Germany [185.102.219.93]
+host = 185.102.219.93
+
+++ hetzner
+menu = [DE] Hetzner (Nuremberg)
+title = [DE] Hetzner - Nuremberg, Germany [speed.hetzner.de]
+host = speed.hetzner.de
+
+++ netcup-nbg
+menu = [DE] Netcup (Nuremberg)
+title = [DE] Netcup - Nuremberg, Germany [lg.netcup.net]
+host = lg.netcup.net
+
+
++ PointsInterestEU2
+menu = Europe - Central
+title = TITLE-HEADER - Central Europe
+
+++ ethz
+menu = [CH] ETH Zurich
+title = [CH] Swiss Federal Institute of Technology in Zurich - Zurich, Switzerland [ubuntu.ethz.ch]
+host = ubuntu.ethz.ch
+
+++ edis-ch
+menu = [CH] EDIS (Zurich)
+title = [CH] EDIS - Zurich, Switzerland [ch.edis.at]
+host = ch.edis.at
+
+++ protonmail
+menu = [CH] ProtonMail
+title = [CH] ProtonMail [protonmail.com]
+host = protonmail.com
+
+++ lunarvps-ch
+menu = [CH] LunarVPS
+title = [CH] LunarVPS - Switzerland [lg.sw.lunarvps.com]
+host = lg.sw.lunarvps.com
+
+++ privatelayer
+menu = [CH] PrivateLayer (Zurich)
+title = [CH] PrivateLayer - Zurich, Switzerland [www.privatelayer.com]
+host = www.privatelayer.com
+
+++ datapacket-ch
+menu = [CH] datapacket (Zurich)
+title = [CH] datapacket - Zurich, Switzerland [89.187.165.1]
+host = 89.187.165.1
+
+++ dediserve-pol1
+menu = [PL] Dediserve (Warsaw)
+title = [PL] Dediserve @ iomart - Warsaw, Poland [speedtest.c1.pol1.dediserve.com]
+host = speedtest.c1.pol1.dediserve.com
+
+++ edis-pl
+menu = [PL] EDIS (Warsaw)
+title = [PL] EDIS - Warsaw, Poland [pl.edis.at]
+host = pl.edis.at
+
+++ i3d-pl-eu
+menu = [PL] i3D.net (Warsaw)
+title = [PL] i3D.net - Warsaw, Poland [pl.eu.speedtest.i3d.net]
+host = pl.eu.speedtest.i3d.net
+
+++ ovh-waw
+menu = [PL] OVH (Warsaw)
+title = [PL] OVH - Warsaw, Poland [waw1-oza.smokeping.ovh.net]
+host = waw1-oza.smokeping.ovh.net
+
+++ datapacket-waw
+menu = [PL] datapacket (Warsaw)
+title = [PL] datapacket - Warsaw, Poland [185.246.208.67]
+host = 185.246.208.67
+
+++ webh
+menu = [PL] webh (Lodz)
+title = [PL] webh @ IWACOM - Lodz, Poland [91.205.74.1]
+host = 91.205.74.1
+
+++ anexia-vie1
+menu = [AT] Anexia (Vienna)
+title = [AT] Anexia (INTERXION) - Vienna, Austria [178.255.152.99]
+host = 178.255.152.99
+
+++ edis-at
+menu = [AT] EDIS (Vienna)
+title = [AT] EDIS - Vienna, Austria [at.edis.at]
+host = at.edis.at
+
+++ hosthatch-vie
+menu = [AT] HostHatch (Vienna)
+title = [AT] HostHatch - Vienna, Austria [lg.vie.hosthatch.com]
+host = lg.vie.hosthatch.com
+
+++ m247-vienna
+menu = [AT] M247 (Vienna)
+title = [AT] M247 - Vienna, Austria [speed.at.m247.ro]
+host = speed.at.m247.ro
+
+++ datapacket-tokyo
+menu = [AT] datapacket (Vienna)
+title = [AT] datapacket - Vienna, Austria [185.180.12.40]
+host = 185.180.12.40
+
+++ edis-atgrz
+menu = [AT] EDIS (Graz)
+title = [AT] EDIS - Graz, Austria [atgrz.edis.at]
+host = atgrz.edis.at
+
+++ m247-prague
+menu = [CZ] M247 (Prague)
+title = [CZ] M247 - Prague, Czech Republic [speed.cz.m247.ro]
+host = speed.cz.m247.ro
+
+++ vodafone-cz
+menu = [CZ] Vodafone (Prague)
+title = [CZ] Vodafone - Prague, Czech Republic [speedtest.vodafone.cz]
+host = speedtest.vodafone.cz
+
+++ datapacket-prague
+menu = [CZ] datapacket (Prague)
+title = [CZ] datapacket - Prague, Czech Republic [185.152.65.113]
+host = 185.152.65.113
+
+++ edis-hu
+menu = [HU] EDIS (Budapest)
+title = [HU] EDIS - Budapest, Hungary [hu.edis.at]
+host = hu.edis.at
+
+++ mikrovps
+menu = [HU] MikroVPS (Budapest)
+title = [HU] MikroVPS - Budapest, Hungary [185.112.156.25]
+host = 185.112.156.25
+
+++ slovak-telecom
+menu = [SK] Slovak Telekom (Bratislava)
+title = [SK] Slovak Telekom - Bratislava, Slovakia [sp1.telekom.sk]
+host = sp1.telekom.sk
+
+++ datapacket-slovak
+menu = [SK] datapacket Bratislava)
+title = [SK] datapacket - Bratislava, Slovakia [156.146.40.65]
+host = 156.146.40.65
+
++ PointsInterestEU4
+menu = Europe - North
+title = TITLE-HEADER - Northern Europe
+
+++ amazon-se
+menu = [SE] Amazon AWS
+title = [SE] Amazon Web Services (eu-north-1) - Stockholm, Sweden [13.53.128.254]
+host = 13.53.128.254
+
+++ edis-se
+menu = [SE] EDIS (Stockholm)
+title = [SE] EDIS - Stockholm, Sweden [se.edis.at]
+host = se.edis.at
+
+++ hosthatch-sto
+menu = [SE] HostHatch (Stockholm)
+title = [SE] HostHatch @ GleSYS / Portlane - Stockholm, Sweden [lg.sto.hosthatch.com]
+host = lg.sto.hosthatch.com
+
+++ tele2-se-kst
+menu = [SE] Tele2 (Kista)
+title = [SE] Tele2 - Kista, Stockholm, Sweden [kst5-speedtest-1.tele2.net]
+host = kst5-speedtest-1.tele2.net
+
+++ telia-se
+menu = [SE] Telia (Stockholm)
+title = [SE] Telia - Hammarby, Stockholm, Sweden [hy-peer4.se.telia.net]
+host = hy-peer4.se.telia.net
+
+++ datapacket-se
+menu = [SE] datapacket (Stockholm)
+title = [SE] datapacket - Stockholm, Sweden [185.76.9.135]
+host = 185.76.9.135
+
+++ hosthatch-osl
+menu = [NO] HostHatch (Oslo)
+title = [NO] HostHatch - Oslo, Norway [lg.osl.hosthatch.com]
+host = lg.osl.hosthatch.com
+
+++ softlayer-osl
+menu = [NO] SoftLayer (Oslo)
+title = [NO] SoftLayer (osl01) - Oslo, Norway [speedtest.osl01.softlayer.com]
+host = speedtest.osl01.softlayer.com
+
+++ terrahost-no
+menu = [NO] Terrahost (Sandefjord)
+title = [NO] Terrahost AS203629 - Sandefjord, Norway [lg.terrahost.no]
+host = lg.terrahost.no
+
+++ telenor
+menu = [NO] Telenor (Oslo)
+title = [NO] Telenor - Oslo, Norway [test.telenor.net]
+host = test.telenor.net
+
+++ tdc-dk
+menu = [DK] TDC Group (Copenhagen)
+title = [DK] TDC Group - Copenhagen, Denmark [linespeed.nms.tele.dk]
+host = linespeed.nms.tele.dk
+
+++ dna-fi
+menu = [FI] DNA Oy (Helsinki)
+title = [FI] DNA Oy - Helsinki, Finland [speedtest1.s.dnaip.fi]
+host = speedtest1.s.dnaip.fi
+
+++ gcp-fin
+menu = [FI] Google Cloud
+title = [FI] Google Cloud Platform (europe-north1) - Hamina, Finland [europe-north1-gce.cloudharmony.net]
+host = europe-north1-gce.cloudharmony.net
+
+++ hetzner-fi
+menu = [FI] Hetzner (Helsinki)
+title = [FI] Hetzner - Helsinki, Finland [95.216.24.40]
+host = 95.216.24.40
+
+++ bacloud-lt
+menu = [LT] BaCloud (Siauliai)
+title = [LT] BaCloud - Siauliai, Lithuania [185.25.48.2]
+host = 185.25.48.2
+
+++ ultravps-lt
+menu = [LT] UltraVPS (Siauliai)
+title = [LT] UltraVPS - Siauliai, Lithuania [lg.sqq.lt.ultravps.eu]
+host = lg.sqq.lt.ultravps.eu
+
+++ vpsnet-lt
+menu = [LT] VPSnet (Vilnius)
+title = [LT] VPSnet - Vilnius, Lithuania [91.211.244.3]
+host = 91.211.244.3
+
+++ edis-is
+menu = [IS] EDIS (Hafnarfjordur)
+title = [IS] EDIS - Hafnarfjordur, Iceland [is.edis.at]
+host = is.edis.at
+
+
++ PointsInterestEU7
+menu = Europe - South
+title = TITLE-HEADER - Southern Europe
+
+++ edis-it
+menu = [IT] EDIS (Milan)
+title = [IT] EDIS - Milan, Italy [it.edis.at]
+host = it.edis.at
+
+++ netsons-mil
+menu = [IT] Netsons (Milan)
+title = [IT] Netsons - Milan, Italy [46.252.149.1]
+host = 46.252.149.1
+
+++ prometeus-mlo
+menu = [IT] Prometeus (Milan)
+title = [IT] Prometeus - Milan, Italy [37.247.53.10]
+host = 37.247.53.10
+
+++ softlayer-mil
+menu = [IT] SoftLayer (Milan)
+title = [IT] SoftLayer (mil01) - Milan, Italy [speedtest.mil01.softlayer.com]
+host = speedtest.mil01.softlayer.com
+
+++ datapacket-mil
+menu = [IT] datapacket (Milan)
+title = [IT] datapacket - Milan, Italy [84.17.59.129]
+host = 84.17.59.129
+
+++ arubacloud-it1
+menu = [IT] ArubaCloud (Arezzo)
+title = [IT] ArubaCloud - Arezzo, Italy [212.237.43.103]
+host = 212.237.43.103
+
+++ fastweb-rom
+menu = [IT] Fastweb (Rome)
+title = [IT] Fastweb - Rome, Italy [spd-pub-rm-01-01.fastwebnet.it]
+host = spd-pub-rm-01-01.fastwebnet.it
+
+++ edis-itpa
+menu = [IT] EDIS (Palermo)
+title = [IT] EDIS - Palermo, Sicily, Italy [itpa.edis.at]
+host = itpa.edis.at
+
+++ seabone-cat
+menu = [IT] Seabone (Catania)
+title = [IT] Seabone / Telecom Italia Sparkle - Catania, Italy [93.186.129.94]
+host = 93.186.129.94
+
+++ ginernet-mad
+menu = [ES] GinerNet (Madrid)
+title = [ES] GinerNet - Madrid, Spain @ Madrid Interxion [5.134.117.74]
+host = 5.134.117.74
+
+++ datapacket-mad
+menu = [ES] datapacket (Madrid)
+title = [ES] datapacket - Madrid, Spain [185.93.3.50]
+host = 185.93.3.50
+
+++ telefonica
+menu = [ES] Telefonica
+title = [ES] Telefonica [www.telefonicaglobalsolutions.com]
+host = www.telefonicaglobalsolutions.com
+
+++ edis-es
+menu = [ES] EDIS (Seville)
+title = [ES] EDIS - Seville, Spain [es.edis.at]
+host = es.edis.at
+
+++ hurricane-electric-lis1
+menu = [PT] he.net (Lisbon)
+title = [PT] Hurricane Electric - Equinix LS1, Lisbon Prior Velho, Lisbon, PT [core1.lis1.he.net]
+host = core1.lis1.he.net
+
+
++ PointsInterestEU3
+menu = Europe - East
+title = TITLE-HEADER - Eastern Europe
+
+++ yandex
+menu = [RU] Yandex
+title = [RU] Yandex [www.yandex.ru]
+host = www.yandex.ru
+
+++ edis-ru
+menu = [RU] EDIS (Moscow)
+title = [RU] EDIS - Moscow, Russian Federation [ru.edis.at]
+host = ru.edis.at
+
+++ justhost-dataline
+menu = [RU] JustHost @ DataLine
+title = [RU] JustHost.ru @ DataLine - Moscow, Russia [lg.justhost.ru]
+host = lg.justhost.ru
+
+++ justhost-fiord
+menu = [RU] JustHost @ Fiord
+title = [RU] JustHost.ru @ Fiord - Moscow, Russia [lg-prgrs.justhost.ru]
+host = lg-prgrs.justhost.ru
+
+++ megafon-moscow
+menu = [RU] Megafon (Moscow)
+title = [RU] Megafon - Moscow, Russian Federation [speedtest-stf.megafon.ru]
+host = speedtest-stf.megafon.ru
+
+++ retn-moscow
+menu = [RU] ReTN (Moscow)
+title = [RU] ReTN - Moscow, Russian Federation [speedtest.retn.net]
+host = speedtest.retn.net
+
+++ tencent-eu-moscow
+menu = [RU] Tencent (Moscow)
+title = [RU] Tencent Cloud - Moscow, Russia [cos.eu-moscow.myqcloud.com]
+host = cos.eu-moscow.myqcloud.com
+
+++ edis-rusp
+menu = [RU] EDIS (St. Petersburg)
+title = [RU] EDIS - St. Petersburg, Russian Federation [rusp.edis.at]
+host = rusp.edis.at
+
+++ veesp-stp
+menu = [RU] Veesp (St. Petersburg)
+title = [RU] Veesp / Fishnet Communications - St. Petersburg, Russia [lg.veesp.com]
+host = lg.veesp.com
+
+++ vimpelcom-spb
+menu = [RU] Vimpelcom (St. Petersburg)
+title = [RU] Vimpelcom - Saint Petersburg, Russian Federation [speedtest.spb.gldn.net]
+host = speedtest.spb.gldn.net
+
+++ zeptovm-stp
+menu = [RU] ZeptoVM (St. Petersburg)
+title = [RU] ZeptoVM / Misaka Networks - St. Petersburg, Russia [45.131.68.233]
+host = 45.131.68.233
+
+++ transtelecom-nizhny
+menu = [RU] TransTelecom (Nizhny)
+title = [RU] TransTelecom TTK - Nizhny Novgorod, Russian Federation [speed.ttknn.net]
+host = speed.ttknn.net
+
+++ justhost-rtcom
+menu = [RU] JustHost (Kazan)
+title = [RU] JustHost.ru @ RosTelecom - Kazan, Russia [lg-rtcom.justhost.ru]
+host = lg-rtcom.justhost.ru
+
+++ er-telecom-rostov
+menu = [RU] ER-Telecom (Rostov)
+title = [RU] ER-Telecom - Rostov-on-Don, Russian Federation [speedtest.rostov.ertelecom.ru]
+host = speedtest.rostov.ertelecom.ru
+
+++ kyivstar
+menu = [UA] Kyivstar (Kyiv)
+title = [UA] Kyivstar - Kyiv, Ukraine [www.speedtest.kyivstar.ua]
+host = www.speedtest.kyivstar.ua
+
+++ datapacket-kyiv
+menu = [UA] datapacket
+title = [UA] datapacket - Kyiv, Ukraine [37.19.218.65]
+host = 37.19.218.65
+
+++ vodafone-ua
+menu = [UA] Vodafone (Kharkiv)
+title = [UA] Vodafone - Kharkiv, Ukraine [kharkovspeedtest.vodafone.ua]
+host = kharkovspeedtest.vodafone.ua
+
+
++ PointsInterestEU8
+menu = Europe - Southeast
+title = TITLE-HEADER - Southeast Europe
+
+++ edis-ro
+menu = [RO] EDIS (Bucharest)
+title = [RO] EDIS - Bucharest, Romania [ro.edis.at]
+host = ro.edis.at
+
+++ hostsolutions
+menu = [RO] HostSolutions.ro
+title = [RO] HostSolutions.ro (S.C. Parfumuri-Femei.com S.R.L.) - Romania [secure.hostsolutions.ro]
+host = secure.hostsolutions.ro
+
+++ intovps-ro
+menu = [RO] IntoVPS (Cluj-Napoca)
+title = [RO] IntoVPS / Hosterion - Cluj-Napoca, Romania [cluj.hosterion.net]
+host = cluj.hosterion.net
+
+++ m247-bucharest
+menu = [RO] M247 (Bucharest)
+title = [RO] M247 - Bucharest, Romania [speed.m247.ro]
+host = speed.m247.ro
+
+++ datapacket-bucharest
+menu = [RO] datapacket (Bucharest)
+title = [RO] datapacket - Bucharest, Romania [185.102.217.170]
+host = 185.102.217.170
+
+++ edis-md
+menu = [MD] EDIS (Chisinau)
+title = [MD] EDIS - Chisinau, Moldova [md.edis.at]
+host = md.edis.at
+
+++ ultravps-md
+menu = [MD] UltraVPS (Chisinau)
+title = [MD] UltraVPS - Chisinau, Moldova [lg.kiv.md.ultravps.eu]
+host = lg.kiv.md.ultravps.eu
+
+++ alphavps-bg-0
+menu = [BG] AlphaVPS (Sofia)
+title = [BG] AlphaVPS - Sofia, Bulgaria @ Telepoint DC [lgbg.alphavps.bg]
+host = lgbg.alphavps.bg
+
+++ edis-bg
+menu = [BG] EDIS (Sofia)
+title = [BG] EDIS - Sofia, Bulgaria [bg.edis.at]
+host = bg.edis.at
+
+++ bulsatcom
+menu = [BG] Bulsatcom (Sofia)
+title = [BG] Bulsatcom - Sofia, Bulgaria [speedtest1.bulsat.com]
+host = speedtest1.bulsat.com
+
+++ datapacket-bg
+menu = [BG] datapacket (Sofia)
+title = [BG] datapacket - Sofia, Bulgaria [37.19.203.1]
+host = 37.19.203.1
+
+++ bh-telecom
+menu = [BA] BH Telecom (Sarajevo)
+title = [BA] BH Telecom - Sarajevo, Bosnia and Herzegovina [speedtest.bih.net.ba]
+host = speedtest.bih.net.ba
+
+++ a1-hr
+menu = [HR] A1 Hrvatska
+title = [HR] A1 Hrvatska - Zagreb, Croatia [lxpspeed1.vipnet.hr]
+host = lxpspeed1.vipnet.hr
+
+++ hrvatski-telecom
+menu = [HR] Hrvatski Telekom
+title = [HR] Hrvatski Telekom - Zagreb, Croatia [speedtest.ht.hr]
+host = speedtest.ht.hr
+
+++ edis-rs
+menu = [RS] EDIS (Belgrade)
+title = [RS] EDIS - Belgrade, Serbia [rs.edis.at]
+host = rs.edis.at
+
+++ m247-serbia
+menu = [RS] M247 (Serbia)
+title = [RS] M247 - Belgrade, Serbia [speed.rs.m247.ro]
+host = speed.rs.m247.ro
+
+++ serbia-broadband
+menu = [RS] Serbia Broadband
+title = [RS] Serbia Broadband - Belgrade, Serbia [mirror.sbb.rs]
+host = mirror.sbb.rs
+
+++ telekom-slovenije
+menu = [SI] Telekom Slovenije
+title = [SI] Telekom Slovenije - Ljubljana, Slovenia [speedtest1.telekom.si]
+host = speedtest1.telekom.si
+
+++ albtelecom
+menu = [AL] Albtelecom (Tirana)
+title = [AL] Albtelecom - Tirana, Albania [tirana.albtelecom.al]
+host = tirana.albtelecom.al
+
+++ crnogorski
+menu = [ME] Crnogorski Telekom
+title = [ME] Crnogorski Telekom - Podgorica, Montenegro [speedtest.t-com.me]
+host = speedtest.t-com.me
+
+++ cosmote-2
+menu = [GR] Cosmote (Athens)
+title = [GR] Cosmote (OTE) - Athens, Greece [speedtest2.cosmote.net]
+host = speedtest2.cosmote.net
+
+++ turkcell-ist
+menu = [TR] Turkcell (Istanbul)
+title = [TR] Turkcell - Istanbul, Turkey [medn01.hizinitestet.com]
+host = medn01.hizinitestet.com
+
+
++ PointsInterestCN
+menu = Asia - China Mainland (North)
+title = TITLE-HEADER - Mainland China (North)
+
+++ aliyun-beijing
+menu = [CN] Aliyun (Beijing)
+title = [CN] Aliyun / Alibaba Cloud - Beijing, China 中国北京 [oss-cn-beijing.aliyuncs.com]
+host = oss-cn-beijing.aliyuncs.com
+
+++ amazon-cn-north1
+menu = [CN] Amazon AWS (Beijing)
+title = [CN] Amazon Web Services (cn-north1 @ Sinnet) - Beijing, China [52.81.0.253]
+host = 52.81.0.253
+
+++ anchnet-bj-yizhuang
+menu = [CN] Anchnet (Beijing)
+title = [CN] Anchnet - Beijing, China (Yizhuang BGP) [43.240.244.14]
+host = 43.240.244.14
+#https://www.anchnet.com/datacenter/yizhuang
+
+++ tencent-ap-beijing
+menu = [CN] Tencent (Beijing)
+title = [CN] Tencent Cloud - Beijing, China [cos.ap-beijing.myqcloud.com]
+host = cos.ap-beijing.myqcloud.com
+
+++ cn-baidupan
+menu = [CN] BaiduPan
+title = [CN] BaiduPan [pan.baidu.com]
+host = pan.baidu.com
+
+++ cn-tsinghua
+menu = [CN] Tsinghua University
+title = [CN] Tsinghua University - Beijing, China [mirrors.tuna.tsinghua.edu.cn]
+host = mirrors.tuna.tsinghua.edu.cn
+
+++ aliyun-qingdao
+menu = [CN] Aliyun (Qingdao)
+title = [CN] Aliyun / Alibaba Cloud - Qingdao, Shandong 中国青岛 [oss-cn-qingdao.aliyuncs.com]
+host = oss-cn-qingdao.aliyuncs.com
+
+++ aliyun-zhangjiakou
+menu = [CN] Aliyun (Zhangjiakou)
+title = [CN] Aliyun / Alibaba Cloud - Zhangjiakou, Hebei 中国张家口 [oss-cn-zhangjiakou.aliyuncs.com]
+host = oss-cn-zhangjiakou.aliyuncs.com
+
+++ cloudiplc-dlbgp
+menu = [CN] CloudIPLC (Dalian)
+title = [CN] CloudIPLC - Dalian, Liaoning 大连BGP [ping.dlbgp.cloudiplc.com]
+host = ping.dlbgp.cloudiplc.com
+
+++ aliyun-hohhot
+menu = [CN] Aliyun (Hohhot)
+title = [CN] Aliyun / Alibaba Cloud - Hohhot, Inner Mongolia 中国呼和浩特 [oss-cn-huhehaote.aliyuncs.com]
+host = oss-cn-huhehaote.aliyuncs.com
+
+++ amazon-cn-northwest1
+menu = [CN] Amazon AWS (Ningxia)
+title = [CN] Amazon Web Services (cn-northwest1 @ NWCD) - Ningxia, China [52.82.0.253]
+host = 52.82.0.253
+
+
++ PointsInterestCNE
+menu = Asia - China Mainland (East)
+title = TITLE-HEADER - Mainland China (East)
+
+++ aliyun-shanghai
+menu = [CN] Aliyun (Shanghai)
+title = [CN] Aliyun / Alibaba Cloud - Shanghai 中国上海 [oss-cn-shanghai.aliyuncs.com]
+host = oss-cn-shanghai.aliyuncs.com
+
+++ anchnet-sh-tl
+menu = [CN] Anchnet (Shanghai TL)
+title = [CN] Anchnet - Shanghai (TL BGP) [43.254.150.12]
+host = 43.254.150.12
+#https://www.anchnet.com/datacenter/hulan
+
+++ anchnet-sh-hl-ct
+menu = [CN] Anchnet (Shanghai CT)
+title = [CN] Anchnet @ China Telecom - Shanghai (Hulan CT) [101.227.69.37]
+host = 101.227.69.37
+
+++ anchnet-sh-hl-bgp2
+menu = [CN] Anchnet (Shanghai BGP)
+title = [CN] Anchnet - Shanghai (Hulan Premium BGP) [103.20.251.7]
+host = 103.20.251.7
+
+++ anchnet-sh-beiai
+menu = [CN] Anchnet (Shanghai CU)
+title = [CN] Anchnet @ China Unicom - Shanghai, China (Beiai CU) [112.65.240.161]
+host = 112.65.240.161
+
+++ tencent-ap-shanghai
+menu = [CN] Tencent (Shanghai)
+title = [CN] Tencent Cloud - Shanghai, China [cos.ap-shanghai.myqcloud.com]
+host = cos.ap-shanghai.myqcloud.com
+
+++ cn-ustc
+menu = [CN] USTC
+title = [CN] University of Science and Technology of China - Hefei, Anhui, China [mirrors.ustc.edu.cn]
+host = mirrors.ustc.edu.cn
+
+++ anchnet-js-wuxi
+menu = [CN] Anchnet (Wuxi)
+title = [CN] Anchnet - Wuxi, Jiangsu (BGP) [103.21.119.48]
+host = 103.21.119.48
+
+++ cloudiplc-xzcu
+menu = [CN] CloudIPLC (Xuzhou CU)
+title = [CN] CloudIPLC @ China Unicom - Xuzhou, Jiangsu 徐州联通 [ping.xzcu.cloudiplc.com]
+host = ping.xzcu.cloudiplc.com
+
+++ cloudiplc-jscm
+menu = [CN] CloudIPLC (Jiangsu CM)
+title = [CN] CloudIPLC @ China Mobile - Jiangsu 江苏移动 [ping.jscm.cloudiplc.com]
+host = ping.jscm.cloudiplc.com
+
+++ stardo-xuzhou
+menu = [CN] Star.do (Xuzhou)
+title = [CN] Star.do @ China Telecom - Xuzhou, Jiangsu (DDoS Protected) [58.218.210.1]
+host = 58.218.210.1
+
+++ uovz-xuzhou
+menu = [CN] UOvZ (Xuzhou CT+DP)
+title = [CN] UOvZ @ China Telecom - Xuzhou, Jiangsu 徐州电信 DDoS Protected [58.218.201.1]
+host = 58.218.201.1
+
+++ uovz-xuzhou-cu
+menu = [CN] UOvZ (Xuzhou CU)
+title = [CN] UOvZ @ China Unicom - Xuzhou, Jiangsu 徐州联通 [112.85.239.1]
+host = 112.85.239.1
+
+++ aliyun-hangzhou
+menu = [CN] Aliyun (Hangzhou)
+title = [CN] Aliyun / Alibaba Cloud - Hangzhou, Zhejiang 中国杭州 [oss-cn-hangzhou.aliyuncs.com]
+host = oss-cn-hangzhou.aliyuncs.com
+
+
++ PointsInterestCNS
+menu = Asia - China Mainland (South)
+title = TITLE-HEADER - Mainland China (South)
+
+++ aliyun-shenzhen
+menu = [CN] Aliyun (Shenzhen)
+title = [CN] Aliyun / Alibaba Cloud - Shenzhen, Guangdong 中国深圳 [oss-cn-shenzhen.aliyuncs.com]
+host = oss-cn-shenzhen.aliyuncs.com
+
+++ anchnet-sz-gds
+menu = [CN] Anchnet (Shenzhen)
+title = [CN] Anchnet - Shenzhen, China (GDS BGP) [117.48.194.97]
+host = 43.240.244.14
+
+++ tencent-ap-guangzhou
+menu = [CN] Tencent (Guangzhou)
+title = [CN] Tencent Cloud - Guangzhou, China [cos.ap-guangzhou.myqcloud.com]
+host = cos.ap-guangzhou.myqcloud.com
+
+++ tencent-ap-chengdu
+menu = [CN] Tencent (Chengdu)
+title = [CN] Tencent Cloud - Chengdu, China [cos.ap-chengdu.myqcloud.com]
+host = cos.ap-chengdu.myqcloud.com
+
+++ huawei-cn-southwest-2
+menu = [CN] Huawei (Guiyang)
+title = [CN] Huawei Cloud - Guiyang, China [as.cn-southwest-2.myhuaweicloud.com]
+host = as.cn-southwest-2.myhuaweicloud.com
+
+++ cloudiplc-qzcn2
+menu = [CN] CloudIPLC (Quanzhou CN2)
+title = [CN] CloudIPLC @ CN2 - Quanzhou, Fujian 泉州CN2 [ping.qzcn2.cloudiplc.com]
+host = ping.qzcn2.cloudiplc.com
+
+
++ PointsInterestCN3
+menu = Asia - Hong Kong, Taiwan
+title = TITLE-HEADER - Hong Kong, Taiwan
+
+++ 50kvm-hk-cera
+menu = [HK] WikiHost @ Cera
+title = [HK] WikiHost - Hong Kong, China [lg.cera.hkg.50network.com]
+host = lg.cera.hkg.50network.com
+
+++ 50kvm-hk-HE 
+menu = [HK] WikiHost @ HE          
+title = [HK] WikiHost - Hong Kong, China [lg.global-only.hkg.50network.com]  
+host = lg.global-only.hkg.50network.com
+
+++ alibabacloud-hk
+menu = [HK] Aliyun
+title = [HK] Aliyun / Alibaba Cloud - Hong Kong, China [oss-cn-hongkong.aliyuncs.com]
+host = oss-cn-hongkong.aliyuncs.com
+
+++ amazon-hk
+menu = [HK] Amazon AWS
+title = [HK] Amazon Web Services (ap-east-1) - Hong Kong, China [18.162.80.8]
+host = 18.162.80.8
+
+++ anchnet-hk
+menu = [HK] Anchnet
+title = [HK] Anchnet - Hong Kong, China [118.193.193.24]
+host = 118.193.193.24
+
+++ chinatelecomglobal-hk
+menu = [HK] China Telecom Global
+title = [HK] China Telecom Global - Hong Kong, China [203.14.188.1]
+host = 203.14.188.1
+
+++ unicom-hk
+menu = [HK] China Unicom Global
+title = [HK] China Unicom Global - Hong Kong, China [www.chinaunicomglobal.com]
+host = www.chinaunicomglobal.com
+
+++ dmit-io-hk
+menu = [HK] DMIT (PVM.n2)
+title = [HK] DMIT (PVM.n2) - Hong Kong, China [193.110.200.233]
+host = 193.110.200.233
+
+++ gigsgigscloud-hk
+menu = [HK] GigsGigsCloud
+title = [HK] GigsGigsCloud / TechAvenue - Hong Kong, China [43.251.159.10]
+host = 43.251.159.10
+
+++ hkserversolution
+menu = [HK] HKServerSolution @ HGC
+title = [HK] HKServerSolution @ HGC Global - Hong Kong, China [210.3.96.1]
+host = 210.3.96.1
+
+++ i3d-hk-ap
+menu = [HK] i3D.net (Hong Kong)
+title = [HK] i3D.net - Hong Kong, Hong Kong [hk.ap.speedtest.i3d.net]
+host = hk.ap.speedtest.i3d.net
+
+++ lightcloud-hk
+menu = [HK] LightCloud @ HKT
+title = [HK] LightCloud @ Hong Kong Telecommunications (HKT) - Hong Kong, China [42.200.162.254]
+host = 42.200.162.254
+
+++ leaseweb-hk
+menu = [HK] LeaseWeb
+title = [HK] LeaseWeb - Hong Kong, China [mirror.hk.leaseweb.net]
+host = mirror.hk.leaseweb.net
+
+++ newmediaexpress-hk
+menu = [HK] NewMedia Express (HK2)
+title = [HK] NewMedia Express (HK2, China Direct) - Hong Kong, China [hk2.newmediaexpress.com]
+host = hk2.newmediaexpress.com
+
+++ on9host
+menu = [HK] On9host
+title = [HK] On9host - Hong Kong, China [103.122.119.1]
+host = 103.122.119.1
+
+++ rackspace-hk
+menu = [HK] Rackspace
+title = [HK] Rackspace - Hong Kong, China [hkg.speedtest.rackspace.com]
+host = hkg.speedtest.rackspace.com
+
+++ starrydns-hk
+menu = [HK] StarryDNS (HK4)
+title = [HK] StarryDNS (HK4) - Hong Kong, China [hk4.lg.starrydns.com]
+host = hk4.lg.starrydns.com
+
+++ softlayer-hk
+menu = [HK] SoftLayer
+title = [HK] SoftLayer - Hong Kong, China [speedtest.hkg02.softlayer.com]
+host = speedtest.hkg02.softlayer.com
+
+++ tencent-ap-hongkong
+menu = [HK] Tencent Cloud
+title = [HK] Tencent Cloud - Hong Kong, China [cos.ap-hongkong.myqcloud.com]
+host = cos.ap-hongkong.myqcloud.com
+
+++ uovz-hk-hkbn
+menu = [HK] UOvZ @ HKBN
+title = [HK] UOvZ @ HKBN, 66.TO - Hong Kong, China [103.107.8.1]
+host = 103.107.8.1
+
+++ uovz-hk-newworldtel
+menu = [HK] UOvZ @ NWT
+title = [HK] UOvZ @ NWT, VpsQuan - Hong Kong, China [103.228.130.1]
+host = 103.228.130.1
+
+++ xtom-hk
+menu = [HK] xTom
+title = [HK] xTom - Hong Kong, China [mirrors.xtom.com.hk]
+host = mirrors.xtom.com.hk
+
+++ datapacket-hk
+menu = [HK] datapacket
+title = [HK] datapacket - Hong Kong, China [84.17.57.129]
+host = 84.17.57.129
+
+++ mokvm-mtel
+menu = [MO] Mokvm @ MTel
+title = [MO] Mokvm @ MTel - Macau, China [103.237.127.30]
+host = 103.237.127.30
+
+++ mokvm-ctm
+menu = [MO] Mokvm @ CTM
+title = [MO] Mokvm @ CTM (Business) - Macau, China [202.175.167.1]
+host = 202.175.167.1
+
+++ gcp-tw
+menu = [TW] Google Cloud
+title = [TW] Google Cloud Platform (asia-east1) - Changhua County, Taiwan [asia-east1-gce.cloudharmony.net]
+host = asia-east1-gce.cloudharmony.net
+
+++ hurricanecloud-tw
+menu = [TW] Hurricanecloud
+title = [TW] Hurricanecloud @ HiNet (Static) - Changhua, Taiwan [125.227.212.32]
+host = 125.227.212.32
+
+++ psychz-tw
+menu = [TW] Psychz
+title = [TW] Psychz - Taiwan [lg.tw.psychz.net]
+host = lg.tw.psychz.net
+
+++ TreexHD
+menu = [TW] TreexHD
+title = [TW] TreexHD - Taiwan
+host = 114.32.212.244
+
+
++ PointsInterestAS
+menu = Asia - Northeast (Japan, Korea, Russia)
+title = TITLE-HEADER - Northeast Asia (Japan, Korea, Russia)
+
+++ osdn-jp
+menu = [JP] OSDN @ IIJ
+title = [JP] OSDN @ IIJ [osdn.net]
+host = osdn.net
+
+++ yahoo-jp
+menu = [JP] Yahoo! Japan
+title = [JP] Yahoo! Japan [yahoo.co.jp]
+host = yahoo.co.jp
+
+++ aliyun-ap-northeast-1
+menu = [JP] Aliyun (Tokyo)
+title = [JP] Aliyun - Tokyo, Japan [oss-ap-northeast-1.aliyuncs.com]
+host = oss-ap-northeast-1.aliyuncs.com
+
+++ amazon-jp
+menu = [JP] Amazon AWS (Tokyo)
+title = [JP] Amazon Web Services (ap-northeast-2) - Tokyo, Japan [18.182.0.0]
+host = 18.182.0.0
+
+++ chinatelecomglobal-jp
+menu = [JP] China Telecom Global
+title = [JP] China Telecom Global - Japan [203.80.137.1]
+host = 203.80.137.1
+
+++ dediserve-jap1
+menu = [JP] Dediserve (Tokyo)
+title = [JP] Dediserve - Tokyo, Japan [speedtest.c1.jap1.dediserve.com]
+host = speedtest.c1.jap1.dediserve.com
+
+++ gcp-jp
+menu = [JP] Google Cloud (Tokyo)
+title = [JP] Google Cloud Platform (asia-northeast1) - Tokyo, Japan [asia-northeast1-gce.cloudharmony.net]
+host = asia-northeast1-gce.cloudharmony.net
+
+++ i3d-jp-as
+menu = [JP] i3D.net (Tokyo)
+title = [JP] i3D.net - Tokyo, Japan [jp.as.speedtest.i3d.net]
+host = jp.as.speedtest.i3d.net
+
+++ linode-jp
+menu = [JP] Linode (Tokyo 2)
+title = [JP] Linode (Tokyo 2) - Tokyo, Japan [speedtest.tokyo2.linode.com]
+host = speedtest.tokyo2.linode.com
+
+++ linode-jp2
+menu = [JP] Linode (Tokyo 2)
+title = [JP] Linode (Tokyo 2) - Tokyo, Japan [172.104.94.238]
+host = 172.104.94.238
+
+++ psychz-jp
+menu = [JP] Psychz (Tokyo)
+title = [JP] Psychz - Tokyo, Japan [lg.jp.psychz.net]
+host = lg.jp.psychz.net
+
+++ ransomit-jp
+menu = [JP] Ransom IT (Tokyo)
+title = [JP] Ransom IT - Tokyo, Japan [tokyo-lg.ransomit.com.au]
+host = tokyo-lg.ransomit.com.au
+
+++ rivencloud-osaka
+menu = [JP] Riven Cloud (Osaka)
+title = [JP] Riven Cloud - Osaka, Japan [speedtest-os1.sa.net]
+host = speedtest-os1.sa.net
+
+++ rivencloud-tokyo
+menu = [JP] Riven Cloud (Tokyo)
+title = [JP] Riven Cloud - Tokyo, Japan [speedtest-ty1.sa.net]
+host = speedtest-ty1.sa.net
+
+++ sakura-internet
+menu = [JP] Sakura Internet
+title = [JP] Sakura Internet [sakura.ne.jp]
+host = sakura.ne.jp
+
+++ softlayer-tok
+menu = [JP] SoftLayer (Tokyo)
+title = [JP] SoftLayer (tok02) - Tokyo, Japan [speedtest.tok02.softlayer.com]
+host = speedtest.tok02.softlayer.com
+
+++ starrydns-tok
+menu = [JP] StarryDNS (Tokyo)
+title = [JP] StarryDNS - Tokyo, Japan [jp4.lg.starrydns.com]
+host = jp4.lg.starrydns.com
+
+++ tencent-ap-tokyo
+menu = [JP] Tencent (Tokyo)
+title = [JP] Tencent Cloud - Tokyo, Japan [cos.ap-tokyo.myqcloud.com]
+host = cos.ap-tokyo.myqcloud.com
+
+++ vultr-jp
+menu = [JP] Vultr (Tokyo)
+title = [JP] Vultr / Choopa - Tokyo, Japan [hnd-jp-ping.vultr.com]
+host = hnd-jp-ping.vultr.com
+
+++ datapacket-tokyo
+menu = [JP] datapacket (Tokyo)
+title = [JP] datapacket - Tokyo, Japan [89.187.160.1]
+host = 89.187.160.1
+
+++ OracleJP-1
+menu = [JP] OracleCloudJP-1
+title = [JP] OracleCloudJP [168.138.207.254]
+host = 168.138.207.254
+
+++ OracleJP-rabbit
+menu = [JP] OracleCloudJP-rabbit
+title = [JP] OracleCloudJP [132.226.1.157]                          
+host = 132.226.1.157
+
+++ path-net-tokyo
+menu = [JP] path-net
+title = [JP] path-net - Tokyo, Japan [jp.path.net]
+host = jp.path.net
+
+++ path-net-tokyo2
+menu = [JP] path-net
+title = [JP] path-net - Tokyo, Japan [diaryplay.plmc.online]
+host = diaryplay.plmc.online
+
+++ amazon-kr
+menu = [KR] Amazon AWS (Seoul)
+title = [KR] Amazon Web Services (ap-northeast-1) - Seoul, South Korea [54.180.0.0]
+host = 54.180.0.0
+
+++ kdatacenter0
+menu = [KR] Kdatacenter
+title = [KR] Kdatacenter [speedtest.kdatacenter.com]
+host = speedtest.kdatacenter.com
+
+++ kecloud
+menu = [KR] KeCloud
+title = [KR] KeCloud @ LG U+ - Seoul, Korea [112.196.204.1]
+host = 112.196.204.1
+
+++ moack
+menu = [KR] Moack
+title = [KR] Moack AS138195 - Seoul, Korea [lg.moack.co.kr]
+host = lg.moack.co.kr
+
+++ newmediaexpress-kr
+menu = [KR] NewMedia Express
+title = [KR] NewMedia Express - Seoul, Korea [kr1.newmediaexpress.com]
+host = kr1.newmediaexpress.com
+
+++ softlayer-seo
+menu = [KR] SoftLayer (Seoul)
+title = [KR] SoftLayer (seo01) - Seoul, South Korea [speedtest.seo01.softlayer.com]
+host = speedtest.seo01.softlayer.com
+
+++ tencent-ap-seoul
+menu = [KR] Tencent (Seoul)
+title = [KR] Tencent Cloud - Seoul, Korea [cos.ap-seoul.myqcloud.com]
+host = cos.ap-seoul.myqcloud.com
+
+++ rfchost-khv
+menu = [RU] RFChost (Khabarovsk)
+title = [RU] RFChost / Huajuan / BetaIDC - Khabarovsk, Russia [103.102.4.4]
+host = 103.102.4.4
+
+++ xhostfire-khv
+menu = [RU] XHostFire (Khabarovsk)
+title = [RU] XHostFire @ Rostelecom, TTK - Khabarovsk, Russia [87.225.45.1]
+host = 87.225.45.1
+
+++ zeptovm-khv
+menu = [RU] ZeptoVM (Khabarovsk)
+title = [RU] ZeptoVM / Misaka Networks @ G-Core Labs - Khabarovsk, Russia [185.209.84.233]
+host = 185.209.84.233
+
+++ justhost-nsk
+menu = [RU] JustHost (Novosibirsk)
+title = [RU] JustHost.ru @ RosTelecom - Novosibirsk, Russia [lg-nsk.justhost.ru]
+host = lg-nsk.justhost.ru
+
+++ rostelecom-nvo
+menu = [RU] Rostelecom (Novosibirsk)
+title = [RU] Rostelecom - Novosibirsk, Russia [95.167.6.12]
+host = hd.ncc.snt.ru
+
+++ rostelecom-ekaterinburg
+menu = [RU] Rostelecom (Ekaterinburg)
+title = [RU] Rostelecom - Ekaterinburg, Russian Federation [ekaterinburg2.speedtest.rt.ru]
+host = ekaterinburg2.speedtest.rt.ru
+
+++ vimpelcom-vdv
+menu = [RU] VimpelCom (Vladivostok)
+title = [RU] VimpelCom Beeline - Vladivostok, Russian Federation [speedcheck1.vdv.vimpelcom.ru]
+host = speedcheck1.vdv.vimpelcom.ru
+
+++ rostelecom-amur
+menu = [RU] RT (Blagoveshchensk)
+title = [RU] Rostelecom - Blagoveshchensk, Russian Federation [speedtest.amur.ru]
+host = speedtest.amur.ru
+
+++ er-telecom-irkutsk
+menu = [RU] ER-Telecom (Irkutsk)
+title = [RU] ER-Telecom - Irkutsk, Russian Federation [speedtest.irkutsk.ertelecom.ru]
+host = speedtest.irkutsk.ertelecom.ru
+
+++ itools
+menu = [MN] itools (Ulaanbaatar)
+title = [MN] itools @ MobiCom - Ulaanbaatar, Mongolia [43.231.112.1]
+host = 43.231.112.1
+
+
++ PointsInterestAS2
+menu = Asia - Singapore
+title = TITLE-HEADER - Singapore
+
+++ alibabacloud-sg
+menu = [SG] Aliyun
+title = [SG] Aliyun / Alibaba Cloud - Singapore [oss-ap-southeast-1.aliyuncs.com]
+host = oss-ap-southeast-1.aliyuncs.com
+
+++ amazon-sg
+menu = [SG] Amazon AWS
+title = [SG] Amazon Web Services (ap-southeast-1) - Singapore [54.255.0.2]
+host = 54.255.0.2
+
+++ beyotta
+menu = [SG] Beyotta @ M1Net
+title = [SG] Beyotta @ M1Net - Singapore [103.19.9.9]
+host = 103.19.9.9
+
+++ digitalocean-sgp
+menu = [SG] Digital Ocean
+title = [SG] Digital Ocean (SGP1) - Singapore [speedtest-sgp1.digitalocean.com]
+host = speedtest-sgp1.digitalocean.com
+
+++ gcp-sg
+menu = [SG] Google Cloud
+title = [SG] Google Cloud Platform (asia-southeast1) - Singapore [asia-southeast1-gce.cloudharmony.net]
+host = asia-southeast1-gce.cloudharmony.net
+
+++ gigsgigscloud-sg
+menu = [SG] GigsGigsCloud
+title = [SG] GigsGigsCloud / TechAvenue - Singapore [27.122.59.1]
+host = 27.122.59.1
+
+++ leaseweb-sg
+menu = [SG] LeaseWeb
+title = [SG] LeaseWeb - Singapore [mirror.sg.leaseweb.net]
+host = mirror.sg.leaseweb.net
+
+++ linode-sg
+menu = [SG] Linode
+title = [SG] Linode - Singapore [speedtest.singapore.linode.com]
+host = speedtest.singapore.linode.com
+
+++ mrvm-sgp
+menu = [SG] mrvm.net
+title = [SG] mrvm.net @ Equinix SG3 - Singapore [lg-sg-sin.mrvm.net]
+host = lg-sg-sin.mrvm.net
+
+++ newmediaexpress-sg
+menu = [SG] NewMedia Express
+title = [SG] NewMedia Express - Singapore [sg1.newmediaexpress.com]
+host = sg1.newmediaexpress.com
+
+++ ovh-sgp
+menu = [SG] OVH
+title = [SG] OVH - Singapore [sgp.smokeping.ovh.net]
+host = sgp.smokeping.ovh.net
+
+++ sg-gs
+menu = [SG] SG.GS
+title = [SG] SG.GS - Singapore [www.sg.gs]
+host = www.sg.gs
+
+++ singtel
+menu = [SG] SingTel
+title = [SG] SingTel - Singapore [speedtest.singnet.com.sg]
+host = speedtest.singnet.com.sg
+
+++ starrydns-sg
+menu = [SG] StarryDNS
+title = [SG] StarryDNS - Singapore [sg1.lg.starrydns.com]
+host = sg1.lg.starrydns.com
+
+++ tencent-ap-singapore
+menu = [SG] Tencent Cloud
+title = [SG] Tencent Cloud - Singapore [cos.ap-singapore.myqcloud.com]
+host = cos.ap-singapore.myqcloud.com
+
+++ vultr-sg
+menu = [SG] Vultr
+title = [SG] Vultr / Choopa - Singapore [sgp-ping.vultr.com]
+host = sgp-ping.vultr.com
+
+++ datapacket-sg
+menu = [SG] datapacket
+title = [SG] datapacket - Singapore [89.187.162.1]
+host = 89.187.162.1
+
++ PointsInterestASSE
+menu = Asia - Southeast
+title = TITLE-HEADER - Southeast Asia
+
+++ aliyun-ap-southeast-5
+menu = [ID] Aliyun (Jakarta)
+title = [ID] Aliyun - Jakarta, Indonesia [oss-ap-southeast-5.aliyuncs.com]
+host = oss-ap-southeast-5.aliyuncs.com
+
+++ telkom-id-bekasi
+menu = [ID] Telkom (Bekasi)
+title = [ID] Telkom Indonesia - Bekasi, Indonesia [speedtest1.telkomsel.com]
+host = speedtest1.telkomsel.com
+
+++ newmediaexpress-id
+menu = [ID] NewMedia Express
+title = [ID] NewMedia Express - Jakarta, Indonesia [id1.newmediaexpress.com]
+host = id1.newmediaexpress.com
+
+++ wowrack-id-jkt
+menu = [ID] Wowrack (Jakarta)
+title = [ID] Wowrack - Jakarta, Indonesia [sp1-jkt.wowrack.co.id]
+host = sp1-jkt.wowrack.co.id
+
+++ telkom-id-surabaya
+menu = [ID] Telkom (Surabaya)
+title = [ID] Telkom Indonesia - Surabaya, Indonesia [surabaya.speedtest.telkom.net.id]
+host = surabaya.speedtest.telkom.net.id
+
+++ wowrack-id-sby
+menu = [ID] Wowrack (Surabaya)
+title = [ID] Wowrack - Surabaya, Indonesia [sp1-sby.wowrack.co.id]
+host = sp1-sby.wowrack.co.id
+
+++ aliyun-ap-southeast-3
+menu = [MY] Aliyun (Kuala Lumpur)
+title = [MY] Aliyun - Kuala Lumpur, Malaysia [oss-ap-southeast-3.aliyuncs.com]
+host = oss-ap-southeast-3.aliyuncs.com
+
+++ gigsgigscloud-my
+menu = [MY] GigsGigsCloud
+title = [MY] GigsGigsCloud / TechAvenue - Malaysia [210.1.226.1]
+host = 210.1.226.1
+
+++ telekom-malaysia
+menu = [MY] Telekom Malaysia
+title = [MY] Telekom Malaysia - Kuala Lumpur, Malaysia [speedtest-ookla1.tm.net.my]
+host = speedtest-ookla1.tm.net.my
+
+++ umobile-my
+menu = [MY] U Mobile
+title = [MY] U Mobile - Kuala Lumpur, Malaysia [speedtest.u.com.my]
+host = speedtest.u.com.my
+
+++ cloudsigma-ph
+menu = [PH] CloudSigma (Manila)
+title = [PH] CloudSigma - Manila, Philippines [116.93.97.1]
+host = 116.93.97.1
+
+++ globe-man
+menu = [PH] Globe Telecom (Manila)
+title = [PH] Globe Telecom - Manila, Philippines [mnl-speedtest.globe.com.ph]
+host = mnl-speedtest.globe.com.ph
+
+++ pldt-man
+menu = [PH] PLDT (Manila)
+title = [PH] PLDT - Manila, Philippines [119.92.238.50]
+host = 119.92.238.50
+
+++ fpt-han
+menu = [VN] FPT Telecom (Hanoi)
+title = [VN] FPT Telecom - Hanoi, Vietnam [speedtesthn.fpt.vn]
+host = speedtesthn.fpt.vn
+
+++ viettel-han
+menu = [VN] Viettel (Hanoi)
+title = [VN] Viettel - Hanoi, Vietnam [speedtestkv1a.viettel.vn]
+host = speedtestkv1a.viettel.vn
+
+++ vnpt-han
+menu = [VN] VNPT (Hanoi)
+title = [VN] VNPT - Hanoi, Vietnam [speedtest1.vtn.com.vn]
+host = speedtest1.vtn.com.vn
+
+++ fpt-hcmc
+menu = [VN] FPT Telecom (HCMC)
+title = [VN] FPT Telecom - Ho Chi Minh City, Vietnam [speedtest.fpt.vn]
+host = speedtest.fpt.vn
+
+++ huawei-ap-southeast-2
+menu = [TH] Huawei (Bangkok)
+title = [TH] Huawei Cloud - Bangkok, Thailand [ecs.ap-southeast-2.myhuaweicloud.com]
+host = ecs.ap-southeast-2.myhuaweicloud.com
+
+++ tencent-ap-bangkok
+menu = [TH] Tencent (Bangkok)
+title = [TH] Tencent Cloud - Bangkok, Thailand [cos.ap-bangkok.myqcloud.com]
+host = cos.ap-bangkok.myqcloud.com
+
+++ tot-th
+menu = [TH] TOT (Bangkok)
+title = [TH] TOT - Bangkok, Thailand [sp1.totbb.net]
+host = sp1.totbb.net
+
+++ trueinternet-th
+menu = [TH] True Internet
+title = [TH] True Internet - Bangkok, Thailand [speedtest1.trueinternet.co.th]
+host = speedtest1.trueinternet.co.th
+
+++ mpt-mn
+menu = [MN] MPT (Yangon)
+title = [MN] Myanmar Posts and Telecommunications - Yangon, Myanmar [mpt01.mpt.net.mm]
+host = mpt01.mpt.net.mm
+
+++ cambohost
+menu = [KH] Cambo.Host
+title = [KH] Cambo.Host [cambo.host]
+host = cambo.host
+
+
++ PointsInterestASSouth
+menu = Asia - India
+title = TITLE-HEADER - India
+
+++ aliyun-ap-south-1
+menu = [IN] Aliyun (Mumbai)
+title = [IN] Aliyun - Mumbai, India [oss-ap-south-1.aliyuncs.com]
+host = oss-ap-south-1.aliyuncs.com
+
+++ amazon-mumbai
+menu = [IN] Amazon AWS (Mumbai)
+title = [IN] Amazon Web Services (ap-southeast-2) - Mumbai, India [13.232.0.253]
+host = 13.232.0.253
+
+++ digitalocean-blr
+menu = [IN] Digital Ocean
+title = [IN] Digital Ocean (BLR1) - Bangladore, India [speedtest-blr1.digitalocean.com]
+host = speedtest-blr1.digitalocean.com
+
+++ linode-mum
+menu = [IN] Linode (Mumbai)
+title = [IN] Linode - Mumbai, India [speedtest.mum1.linode.com]
+host = speedtest.mum1.linode.com
+
+++ psychz-in
+menu = [IN] Psychz (Mumbai)
+title = [IN] Psychz - Mumbai, India [lg.in.psychz.net]
+host = lg.in.psychz.net
+
+++ tencent-ap-mumbai
+menu = [IN] Tencent (Mumbai)
+title = [IN] Tencent Cloud - Mumbai, India [cos.ap-mumbai.myqcloud.com]
+host = cos.ap-mumbai.myqcloud.com
+
+++ softlayer-che
+menu = [IN] SoftLayer (Chennai)
+title = [IN] SoftLayer (che01) - Chennai, India [speedtest.che01.softlayer.com]
+host = speedtest.che01.softlayer.com
+
+++ jio-mumbai
+menu = [IN] Jio (Mumbai)
+title = [IN] Jio - Mumbai, India [speedmum2.jioconnect.com]
+host = speedmum2.jioconnect.com
+
+++ tatasky-mumbai
+menu = [IN] Tata (Mumbai)
+title = [IN] Tatasky Broadband - Mumbai, India [speedtestmum.tataskybroadband.com]
+host = speedtestmum.tataskybroadband.com
+
+++ vodafone-mumbai
+menu = [IN] Vodafone India (Mumbai)
+title = [IN] Vodafone India - Mumbai, India [speedtestmum.vodafone.ind.in]
+host = speedtestmum.vodafone.ind.in
+
+++ bharti-delhi
+menu = [IN] Airtel (Delhi)
+title = [IN] Airtel Broadband - Delhi, India [speedtestdel.airtelbroadband.in]
+host = speedtestdel.airtelbroadband.in
+
+++ hathway-delhi
+menu = [IN] Hathway (Delhi)
+title = [IN] Hathway - Delhi, India [del-speed.hathway.com]
+host = del-speed.hathway.com
+
+++ vodafone-delhi
+menu = [IN] Vodafone India (Delhi)
+title = [IN] Vodafone India - Delhi, India [speedtestdel.vodafone.ind.in]
+host = speedtestdel.vodafone.ind.in
+
+++ act-fibernet-blr
+menu = [IN] ACT Fibernet (Bangalore)
+title = [IN] ACT Fibernet - Bangalore, India [speedtestblr.actcorp.in]
+host = speedtestblr.actcorp.in
+
+++ hathway-blr
+menu = [IN] Hathway (Bangalore)
+title = [IN] Hathway - Bangalore, India [bangspeed.hathway.com]
+host = bangspeed.hathway.com
+
+++ jio-bangalore
+menu = [IN] Jio (Bangalore)
+title = [IN] Jio - Bangalore, India [speedbgl1.jioconnect.com]
+host = speedbgl1.jioconnect.com
+
+++ bharti-chn
+menu = [IN] Airtel (Chennai)
+title = [IN] Airtel - Chennai, India [speedtestchn1.airtel.in]
+host = speedtestchn1.airtel.in
+
+++ jio-chn
+menu = [IN] Jio (Chennai)
+title = [IN] Jio - Chennai, India [speedchn1.jioconnect.com]
+host = speedchn1.jioconnect.com
+
+++ vodafone-kol
+menu = [IN] Vodafone India (Kolkata)
+title = [IN] Vodafone India - Kolkata, India [speedtestkol.vodafone.ind.in]
+host = speedtestkol.vodafone.ind.in
+
+
++ PointsInterestASSouth2
+menu = Asia - South
+title = TITLE-HEADER - South Asia
+
+++ cybernet-kar
+menu = [PK] Cybernet (Karachi)
+title = [PK] Cybernet - Karachi, Pakistan [speedtest.nationalbroadband.pk]
+host = speedtest.nationalbroadband.pk
+
+++ jazz-kar
+menu = [PK] Jazz (Karachi)
+title = [PK] Jazz - Karachi, Pakistan [speedtest-khi1.jazz.com.pk]
+host = speedtest-khi1.jazz.com.pk
+
+++ waheen-lah
+menu = [PK] Waheen (Lahore)
+title = [PK] Waheen - Lahore, Pakistan [speedtest.wateen.net]
+host = speedtest.wateen.net
+
+++ ufone-isl
+menu = [PK] Ufone (Islamabad)
+title = [PK] Ufone - Islamabad, Pakistan [uspeedtest01.ufone.com]
+host = uspeedtest01.ufone.com
+
+++ zong-isl
+menu = [PK] Zong CMPak (Islamabad)
+title = [PK] Zong / China Mobile Pakistan - Islamabad, Pakistan [speedtest-isb1.zong.com.pk]
+host = speedtest-isb1.zong.com.pk
+
+++ robi-dhaka
+menu = [BD] Robi (Dhaka)
+title = [BD] Robi Axiata - Dhaka, Bangladesh [speedtest.robi.com.bd]
+host = speedtest.robi.com.bd
+
+++ teletalk-dhaka
+menu = [BD] Teletalk (Dhaka)
+title = [BD] Teletalk Bangladesh - Dhaka, Bangladesh [testspeed1.teletalk.com.bd]
+host = testspeed1.teletalk.com.bd
+
+++ dialog-lk
+menu = [LK] Dialog (Colombo)
+title = [LK] Dialog - Colombo, Sri Lanka [ookla1.dialog.lk]
+host = ookla1.dialog.lk
+
+++ sri-lanka-telecom
+menu = [LK] Sri Lanka Telecom
+title = [LK] Sri Lanka Telecom - Colombo, Sri Lanka [speedtest1.sltnet.lk]
+host = speedtest1.sltnet.lk
+
+
++ PointsInterestAS3
+menu = Asia - West, Central
+title = TITLE-HEADER - West, Central Asia
+
+++ aliyun-me-east-1
+menu = [AE] Aliyun (Dubai)
+title = [AE] Aliyun - Dubai, United Arab Emirates [oss-me-east-1.aliyuncs.com]
+host = oss-me-east-1.aliyuncs.com
+
+++ i3d-ae-ap
+menu = [AE] i3D.net (Dubai)
+title = [AE] i3D.net - Dubai, United Arab Emirates [ae.ap.speedtest.i3d.net]
+host = ae.ap.speedtest.i3d.net
+
+++ m247-dubai
+menu = [AE] M247 (Dubai)
+title = [AE] M247 - Dubai, UAE [speed.uae.m247.ro]
+host = speed.uae.m247.ro
+
+++ etisalat
+menu = [AE] Etisalat (EmIX)
+title = [AE] Etisalat AS8966 @ EmIX [lg.emix.net.ae]
+host = lg.emix.net.ae
+
+++ amazon-bh
+menu = [BH] Amazon AWS
+title = [BH] Amazon Web Services (me-south-1) - Bahrain [15.185.32.254]
+host = 15.185.32.254
+
+++ partner-il
+menu = [IL] Partner
+title = [IL] Partner Communications - Tel Aviv, Israel [speedtest2.partner.co.il]
+host = speedtest2.partner.co.il
+
+++ pelephone-il
+menu = [IL] Pelephone
+title = [IL] Pelephone - Tel Aviv, Israel [speedtest3.pelephone.net.il]
+host = speedtest3.pelephone.net.il
+
+++ paltel-group-ps
+menu = [PS] PALTEL Group
+title = [PS] PALTEL Group - Gaza, Palestine [213.244.72.22]
+host = 213.244.72.22
+
+++ terranet-lb
+menu = [LB] TerraNet
+title = [LB] TerraNet - Beirut, Lebanon [sp1.terra.net.lb]
+host = sp1.terra.net.lb
+
+++ orange-jordan
+menu = [JO] Orange Jordan
+title = [JO] Orange Jordan - Amman, Jordan [speedtest.orange.jo]
+host = speedtest.orange.jo
+
+++ zain-jo
+menu = [JO] ZAIN JO
+title = [JO] ZAIN JO - Amman, Jordan [speedtest.zaindata.com.jo]
+host = speedtest.zaindata.com.jo
+
+++ saudi-telecom-company-sa
+menu = [SA] Saudi Telecom
+title = [SA] Saudi Telecom Company - Riyadh, Saudi Arabia [speedtest.saudi.net.sa]
+host = speedtest.saudi.net.sa
+
+++ vodafone-qa
+menu = [QA] Vodafone QA
+title = [QA] Vodafone QA - Doha, Qatar [speedtest.vodafone.com.qa]
+host = speedtest.vodafone.com.qa
+
+++ shatel-ir
+menu = [IR] SHATEL
+title = [IR] SHATEL - Tehran, Iran [speedtest1.shatel.ir]
+host = speedtest1.shatel.ir
+
+++ tci-ir
+menu = [IR] TCI
+title = [IR] TCI - Tehran, Iran [tci-tehran.tct.ir]
+host = tci-tehran.tct.ir
+
+++ masarat-telecom-iq
+menu = [IQ] MASARAT Telecom
+title = [IQ] MASARAT Telecom - Baghdad, Iraq [86.111.144.210]
+host = 86.111.144.210
+
+++ earthlink-telecom-iq
+menu = [IQ] Earthlink Telecom
+title = [IQ] Earthlink Telecom - Baghdad, Iraq [speedtest1.earthlinktele.com]
+host = speedtest1.earthlinktele.com
+
+++ fastiraq-llc-iq
+menu = [IQ] Fastiraq
+title = [IQ] Fastiraq LLC - Al Basrah, Iraq [sp5.fastiraq.com]
+host = sp5.fastiraq.com
+
+++ zain-kw
+menu = [KW] Zain Kuwait
+title = [KW] Zain Kuwait [kw.zain.com]
+host = kw.zain.com
+
+++ omantel
+menu = [OM] OmanTel
+title = [OM] OmanTel [212.72.10.134]
+host = 212.72.10.134
+
+++ teleyemen-ye
+menu = [YE] TeleYemen
+title = [YE] TeleYemen [www.teleyemen.com.ye]
+host = www.teleyemen.com.ye
+
+++ cytanet-cy
+menu = [CY] CYTANET
+title = [CY] CYTANET - Nicosia, Cyprus [speedtest.cytanet.com.cy]
+host = speedtest.cytanet.com.cy
+
+++ magticom-tbilisi
+menu = [GE] Magticom Ltd.
+title = [GE] Magticom Ltd. - Tbilisi, Georgia [speedtest1.magticom.ge]
+host = speedtest1.magticom.ge
+
+++ hoster-kg
+menu = [KG] Hoster.KG
+title = [KG] Hoster.KG - Bishkek, Kyrgyzstan [hoster.kg]
+host = hoster.kg
+
+++ kaztranscom-almaty
+menu = [KZ] KazTransCom
+title = [KZ] KazTransCom - Almaty, Kazakhstan [188.0.133.159]
+host = 188.0.133.159
+
+++ kazakhtelecom-astana
+menu = [KZ] Kazakhtelecom
+title = [KZ] Kazakhtelecom - Nur-Sultan, Kazakhstan [asta.speedtest.online.kz]
+host = asta.speedtest.online.kz
+
+
++ PointsInterestAfr
+menu = Africa
+title = TITLE-HEADER - Africa
+
+++ i3d-af-speedtest
+menu = [ZA] i3D.net (Johannesburg)
+title = [ZA] i3D.net - Johannesburg, South Africa [af.speedtest.i3d.net]
+host = af.speedtest.i3d.net
+
+++ psychz-jnb
+menu = [ZA] Psychz (Johannesburg)
+title = [ZA] Psychz - Johannesburg, South Africa [lg.jnb.psychz.net]
+host = lg.jnb.psychz.net
+
+++ rivencloud-johannesburg
+menu = [ZA] Riven Cloud @ xTom
+title = [ZA] Riven Cloud @ xTom - Johannesburg, South Africa [speedtest-jb1.sa.net]
+host = speedtest-jb1.sa.net
+
+++ zappiehost-za
+menu = [ZA] ZappieHost
+title = [ZA] ZappieHost - Johannesburg, South Africa [lg-za.zappiehost.com]
+host = lg-za.zappiehost.com
+
+++ zeptovm-jnb
+menu = [ZA] ZeptoVM (Johannesburg)
+title = [ZA] ZeptoVM / Misaka Networks - Johannesburg, South Africa [za-jnb01.lg.misaka.one]
+host = za-jnb01.lg.misaka.one
+
+++ seacom-za-cpt
+menu = [ZA] SEACOM (Cape Town)
+title = [ZA] SEACOM - Cape Town, South Africa [lg-01-cpt.za.seacomnet.com]
+host = lg-01-cpt.za.seacomnet.com
+
+++ airtel-ng
+menu = [NG] Airtel (Lagos)
+title = [NG] Airtel Nigeria - Lagos, Nigeria [speedtest1.ng.airtel.com]
+host = speedtest1.ng.airtel.com
+
+++ etisalat-misr
+menu = [EG] Etisalat Misr (Alexandria)
+title = [EG] Etisalat Misr - Alexandria, Egypt [sp30.etisalatdata.net]
+host = sp30.etisalatdata.net
+
+++ vodafone-eg
+menu = [EG] Vodafone (Cairo)
+title = [EG] Vodafone - Cairo, Egypt [speedtest3.vodafone.com.eg]
+host = speedtest3.vodafone.com.eg
+
+++ maroc-telecom
+menu = [MA] Maroc Telecom (Fez)
+title = [MA] Maroc Telecom - Fez, Morocco [fesst.iam.ma]
+host = fesst.iam.ma
+
+++ orange-ma
+menu = [MA] Orange (Casablanca)
+title = [MA] Orange - Fez, Morocco [speedtestcasa1.meditel.net.ma]
+host = speedtestcasa1.meditel.net.ma
+
+++ algerie-telecom
+menu = [DZ] Algerie Telecom
+title = [DZ] Algerie Telecom - Algiers, Algeria [speedtest.djaweb.dz]
+host = speedtest.djaweb.dz
+
+++ ooredoo-tn
+menu = [TN] Ooredoo (Tunis)
+title = [TN] Ooredoo - Tunis, Tunisia [speedtest2.ooredoo.tn]
+host = speedtest2.ooredoo.tn
+
+++ tunisie-telecom
+menu = [TN] Tunisie Telecom
+title = [TN] Tunisie Telecom - Tunis, Tunisia [speedtest.tunisietelecom.tn]
+host = speedtest.tunisietelecom.tn
+
+++ ethio-telecom
+menu = [ET] Ethio Telecom
+title = [ET] Ethio Telecom - Addis Ababa, Ethiopia [wwa.st.net.et]
+host = wwa.st.net.et
+
+++ angani
+menu = [KE] Angani
+title = [KE] Angani - Kenya [hosting.angani.co]
+host = hosting.angani.co
+
+++ seacom-ke-mba
+menu = [KE] SEACOM (Mombasa)
+title = [KE] SEACOM - Mombasa, Kenya [lg-01-mba.ke.seacomnet.com]
+host = lg-01-mba.ke.seacomnet.com
+
+++ hurricane-electric-jib1
+menu = [DJ] he.net (Djibouti City)
+title = [DJ] Hurricane Electric - Djibouti Data Center, Djibouti Djibouti City, DJ [core1.jib1.he.net]
+host = core1.jib1.he.net
+
+++ ugandahosting1
+menu = [UG] Uganda Hosting
+title = [UG] Uganda Hosting [45.221.72.222]
+host = 45.221.72.222
+
+++ liquidtelecom-rw
+menu = [RW] liquidtelecom (Kigali)
+title = [RW] liquidtelecom - Kigali, Rwanda [ltrbandwidth.liquidtelecom.rw]
+host = ltrbandwidth.liquidtelecom.rw
+
+++ seacom-tz-dar
+menu = [TZ] SEACOM (Dar Es Salaam)
+title = [TZ] SEACOM - Dar Es Salaam, Tanzania [lg-01-dar.tz.seacomnet.com]
+host = lg-01-dar.tz.seacomnet.com
+
+++ seacom-mz-mpm
+menu = [MZ] SEACOM (Maputo)
+title = [MZ] SEACOM - Maputo, Mozambique [lg-01-mpm.mz.seacomnet.com]
+host = lg-01-mpm.mz.seacomnet.com
+
+++ telecom-namibia
+menu = [NA] Telecom Namibia
+title = [NA] Telecom Namibia - Windhoek, Namibia [www.speedtest1.ipb.na]
+host = www.speedtest1.ipb.na
+
+
++ PointsInterestSA
+menu = South, Central America
+title = TITLE-HEADER - South, Central America
+
+++ amazon-br
+menu = [BR] Amazon AWS (Sao Paulo)
+title = [BR] Amazon Web Services (sa-east-1) - Sao Paulo, Brazil [54.94.0.66]
+host = 54.94.0.66
+
+++ i3d-sa-speedtest
+menu = [SA] i3D.net (Sao Paulo)
+title = [SA] i3D.net - Sao Paulo, Brazil [sa.speedtest.i3d.net]
+host = sa.speedtest.i3d.net
+
+++ maxihost-br
+menu = [BR] Maxihost
+title = [BR] Maxihost - Sao Paulo, Brazil [speedtest-mh1.maxihost.com]
+host = speedtest-mh1.maxihost.com
+
+++ softlayer-sao
+menu = [BR] SoftLayer (Sao Paulo)
+title = [BR] SoftLayer (sao01) - Sao Paulo, Brazil [speedtest.sao01.softlayer.com]
+host = speedtest.sao01.softlayer.com
+
+++ offshoreracks-pa
+menu = [PA] OffshoreRacks (Panama)
+title = [PA] OffshoreRacks - Panama [offshoreracks.com]
+host = offshoreracks.com
+
+++ crservers
+menu = [CR] CR Servers (Costa Rica)
+title = [CR] CR Servers [www.crservers.cr]
+host = www.crservers.cr
+
+++ claro-sao
+menu = [BR] Claro (Sao Paulo)
+title = [BR] Claro - Sao Paulo, Brazil [spd5.claro.com.br]
+host = spd5.claro.com.br
+
+++ timbrasil-sao
+menu = [BR] TIM Brasil (Sao Paulo)
+title = [BR] TIM Brasil - Sao Paulo, Brazil [svstsne0101.timbrasil.com.br]
+host = svstsne0101.timbrasil.com.br
+
+++ claro-rjo
+menu = [BR] Claro (Rio De Janeiro)
+title = [BR] Claro - Rio De Janeiro, Brazil [spd2.claro.com.br]
+host = spd2.claro.com.br
+
+++ timbrasil-sal
+menu = [BR] TIM Brasil (Salvador)
+title = [BR] TIM Brasil - Salvador, Brazil [spetstsdr01.timbrasil.com.br]
+host = spetstsdr01.timbrasil.com.br
+
+++ fibertel-ar
+menu = [AR] FiberTel (Buenos Aires)
+title = [AR] FiberTel - Buenos Aires, Argentina [speed.fibertel.com.ar]
+host = speed.fibertel.com.ar
+
+++ telecom-argentina
+menu = [AR] Telecom Argentina
+title = [AR] Telecom Argentina - Buenos Aires, Argentina [st1.telecom.com.ar]
+host = st1.telecom.com.ar
+
+++ claro-cl
+menu = [CL] Claro (Santiago)
+title = [CL] Claro Chile - Santiago, Chile [speedtest.clarochile.cl]
+host = speedtest.clarochile.cl
+
+++ telefonica-cl
+menu = [CL] Telefonica (Santiago)
+title = [CL] Telefonica / Movistar Chile - Santiago, Chile [speedtest-netgauge.movistar.cl]
+host = speedtest-netgauge.movistar.cl
+
+++ hurricane-electric-bog1
+menu = [CO] he.net (Bogota)
+title = [CO] Hurricane Electric - Equinix BG1, Bogota Bogota, CO [core1.bog1.he.net]
+host = core1.bog1.he.net
+
+
++ PointsInterestOc
+menu = Oceania
+title = TITLE-HEADER - Oceania
+
+++ aliyun-ap-southeast-2
+menu = [AU] Aliyun (Sydney)
+title = [AU] Aliyun - Sydney, Australia [oss-ap-southeast-2.aliyuncs.com]
+host = oss-ap-southeast-2.aliyuncs.com
+
+++ amazon-syd
+menu = [AU] Amazon AWS
+title = [AU] Amazon Web Services (ap-southeast-2) - Sydney, Australia [54.206.128.2]
+host = 54.206.128.2
+
+++ dediserve-syd1
+menu = [AU] Dediserve (Sydney)
+title = [AU] Dediserve - Sydney, Australia [speedtest.c1.syd1.dediserve.com]
+host = speedtest.c1.syd1.dediserve.com
+
+++ i3d-oc
+menu = [AU] i3D.net (Sydney)
+title = [AU] i3D.net - Sydney, Australia [oc.speedtest.i3d.net]
+host = oc.speedtest.i3d.net
+
+++ leaseweb-syd
+menu = [AU] LeaseWeb (Sydney)
+title = [AU] LeaseWeb - Sydney, Australia [mirror.syd10.au.leaseweb.net]
+host = mirror.syd10.au.leaseweb.net
+
+++ ovh-syd
+menu = [AU] OVH (Sydney)
+title = [AU] OVH - Sydney, Australia [syd.smokeping.ovh.net]
+host = syd.smokeping.ovh.net
+
+++ ransomit-syd
+menu = [AU] Ransom IT (Sydney)
+title = [AU] Ransom IT - Sydney, Australia [sydney-lg.ransomit.com.au]
+host = sydney-lg.ransomit.com.au
+
+++ softlayer-syd
+menu = [AU] SoftLayer (Sydney)
+title = [AU] SoftLayer (syd01) - Sydney, Australia [speedtest.syd01.softlayer.com]
+host = speedtest.syd01.softlayer.com
+
+++ telstra-syd
+menu = [AU] Telstra (Sydney)
+title = [AU] Telstra - Sydney, Australia [syd1.speedtest.telstra.net]
+host = syd1.speedtest.telstra.net
+
+++ vultr-syd
+menu = [AU] Vultr (Sydney)
+title = [AU] Vultr - Sydney, Australia [syd-au-ping.vultr.com]
+host = syd-au-ping.vultr.com
+
+++ datapacket-syd
+menu = [AU] datapacket (Sydney)
+title = [AU] datapacket - Sydney, Australia [143.244.63.144]
+host = 143.244.63.144
+
+++ dediserve-mel1
+menu = [AU] Dediserve (Melbourne)
+title = [AU] Dediserve - Melbourne, Australia [speedtest.c1.mel1.dediserve.com]
+host = speedtest.c1.mel1.dediserve.com
+
+++ flowvps
+menu = [AU] FlowVPS (Melbourne)
+title = [AU] FlowVPS @ Equinix ME1 - Melbourne, Australia [lg.flowvps.com]
+host = lg.flowvps.com
+
+++ ransomit-mel
+menu = [AU] Ransom IT (Melbourne)
+title = [AU] Ransom IT - Melbourne, Australia [melbourne-lg.ransomit.com.au]
+host = melbourne-lg.ransomit.com.au
+
+++ softlayer-mel
+menu = [AU] SoftLayer (Melbourne)
+title = [AU] SoftLayer (mel01) - Melbourne, Australia [speedtest.mel01.softlayer.com]
+host = speedtest.mel01.softlayer.com
+
+++ vodafone-mel
+menu = [AU] Vodafone (Melbourne)
+title = [AU] Vodafone Hutchison Australia - Melbourne, Australia [my1.speedtest.vodafone.com.au]
+host = my1.speedtest.vodafone.com.au
+
+++ internode-brb
+menu = [AU] Internode (Brisbane)
+title = [AU] Internode - Brisbane, Australia [speedtest-bne.cdn.on.net]
+host = speedtest-bne.cdn.on.net
+
+++ ransomit-brb
+menu = [AU] Ransom IT (Brisbane)
+title = [AU] Ransom IT - Brisbane, Australia [brisbane-lg.ransomit.com.au]
+host = brisbane-lg.ransomit.com.au
+
+++ ransomit-ade
+menu = [AU] Ransom IT (Adelaide)
+title = [AU] Ransom IT - Adelaide, Australia [adelaide-lg.ransomit.com.au]
+host = adelaide-lg.ransomit.com.au
+
+++ telstra-ade
+menu = [AU] Telstra (Adelaide)
+title = [AU] Telstra - Adelaide, Australia [ade1.speedtest.telstra.net]
+host = ade1.speedtest.telstra.net
+
+++ optus-per
+menu = [AU] Optus (Perth)
+title = [AU] Optus - Perth, Australia [speedtest.per.optusnet.com.au]
+host = speedtest.per.optusnet.com.au
+
+++ ransomit-per
+menu = [AU] Ransom IT (Perth)
+title = [AU] Ransom IT - Perth, Australia [perth-lg.ransomit.com.au]
+host = perth-lg.ransomit.com.au
+
+++ vocus-pth
+menu = [AU] Vocus (Perth)
+title = [AU] Vocus - Perth, Australia [speedtest.pth.m2core.net.au]
+host = speedtest.pth.m2core.net.au
+
+++ optus-drw
+menu = [AU] Optus (Darwin)
+title = [AU] Optus - Darwin, Australia [darwin.nt.speedtest.optusnet.com.au]
+host = darwin.nt.speedtest.optusnet.com.au
+
+++ telstra-drw
+menu = [AU] Telstra (Darwin)
+title = [AU] Telstra - Darwin, Australia [drw1.speedtest.telstra.net]
+host = drw1.speedtest.telstra.net
+
+++ ransomit-nz
+menu = [NZ] Ransom IT (Auckland)
+title = [NZ] Ransom IT - Auckland, New Zealand [auckland-lg.ransomit.com.au]
+host = auckland-lg.ransomit.com.au
+
+++ spark-nz
+menu = [NZ] Spark (Auckland)
+title = [NZ] Spark - Auckland, New Zealand [speedtest-auckland.telecom.co.nz]
+host = speedtest-auckland.telecom.co.nz
+
+++ zappiehost-nz
+menu = [NZ] ZappieHost (Auckland)
+title = [NZ] ZappieHost - Auckland, New Zealand [lg-nz.zappiehost.com]
+host = lg-nz.zappiehost.com
+
+++ spark-nz-wel
+menu = [NZ] Spark (Wellington)
+title = [NZ] Spark - Wellington, New Zealand [speedtest-wellington.spark.co.nz]
+host = speedtest-wellington.spark.co.nz
+
+++ 2degrees
+menu = [NZ] 2degrees (Christchurch)
+title = [NZ] 2degrees - Christchurch, New Zealand [speed.snap.net.nz]
+host = speed.snap.net.nz
+
+++ telecom-fiji
+menu = [FJ] Telecom Fiji
+title = [FJ] Telecom Fiji - Suva, Fiji [speedtest.tfl.com.fj]
+host = speedtest.tfl.com.fj
+
+++ teleguam
+menu = [US/GU] GTA Teleguam
+title = [US/GU] GTA Teleguam - Guam, United States [speedtest.teleguam.net]
+host = speedtest.teleguam.net
